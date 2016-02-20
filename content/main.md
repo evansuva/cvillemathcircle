@@ -4,6 +4,7 @@ title = "Charlottesville Math Circle"
 
 ### Cville Math Circle
 
+**Meetings.** Saturdays at 2:30pm, Fontana Clubhouse.
 
 ### Founders
 
