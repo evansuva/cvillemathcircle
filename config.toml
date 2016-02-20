@@ -1,0 +1,15 @@
+baseurl = "http://cvillemathcircle.org"
+languageCode = "en-us"
+title = "CvilleMathCircle"
+subtitle = "Secret Order of the Twin Primes"
+
+[params]
+    sidebartitle = "CvilleMathCircle"
+    sidebartagline = "Secret Order of the Twin Primes"
+    nodate = true
+    noauthor = true
+    noread = true
+    nopaging=true
+    notoc=true
+
+[[menu.footer]]
