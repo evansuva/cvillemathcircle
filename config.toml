@@ -1,6 +1,6 @@
 baseurl = "http://cvillemathcircle.org"
 languageCode = "en-us"
-title = "CvilleMathCircle"
+title = "Cville Math Circle"
 subtitle = "Secret Order of the Twin Primes"
 
 [params]
