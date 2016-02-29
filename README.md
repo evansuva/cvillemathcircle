@@ -1,2 +1,3 @@
-# ScriptInspector
-Website for ScriptInspector.org
+# CVilleMathCircle
+
+Website for cvillemathcircle.org
