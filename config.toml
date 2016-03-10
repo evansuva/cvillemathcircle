@@ -5,7 +5,7 @@ subtitle = "Secret Order of the Twin Primes"
 
 [params]
     sidebartitle = "Cville Math Circle"
-    sidebartagline = "Secret Order of the Twin Primes"
+    sidebartagline = "Secret Order of the Twin&nbsp;Primes"
     nodate = true
     noauthor = true
     noread = true
