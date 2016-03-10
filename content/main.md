@@ -23,6 +23,10 @@ same color when we mix the same colors, regardless of the order in which
 they are mixed.  Mostly, though, we eventually end up with a murky, greenish-purple
 color after enough colors are combined.
 
+````
+Red + Blue = Purple = Blue + Red
+````
+
 ### 5 March 2016: **Transitivity**
 
 ### Founders
