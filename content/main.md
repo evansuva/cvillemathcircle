@@ -27,6 +27,3 @@ color after enough colors are combined.
 
 <a href="/images/IMG_7879.jpg"><img src="/images/IMG_7879-2.jpg" width=800 height=475></a>
 
-### Founders
-
-[Ana Nora Evans](http://www.ananoraevans.org/) and [David Evans](http://www.cs.virginia.edu/evans)
