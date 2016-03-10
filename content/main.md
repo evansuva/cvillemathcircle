@@ -2,17 +2,6 @@
 title = "Charlottesville Math Circle"
 +++
 
-<a href="/images/IMG_7783.jpg"><img src="/images/IMG_7783-small.png" width=800 height=566></a>
-
-#### What's a "Math Circle"?
-
-A _math circle_ is a group of people playing together with mathematical
-puzzles and problems.  Our math circle is for three and four year-old
-girls, and focused on open exploration with mathematical concepts.
-
-### Meetings 
-
-Saturdays at 3:30pm (starting 27 February 2016), [Fontana Clubhouse](https://bit.ly/1RTNLkK).
 
 #### 27 February 2016: **Commutativity!**
 
@@ -36,6 +25,8 @@ Balancing is _transitive_!
 <center>
 `A = B` and `B = C` means `A = C`
 </center>
+
+<a href="/images/IMG_7879.jpg"><img src="/images/IMG_7879-2.jpg" width=800 height=475></a>
 
 ### Founders
 

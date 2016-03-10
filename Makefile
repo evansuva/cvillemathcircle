@@ -1,11 +1,12 @@
 GITHUB_PAGES_BRANCH=gh-pages
 SITENAME=cvillemathcircle
+THEME = srg
 
 html:
-	hugo --theme=srg
+	hugo --theme=$(THEME)
 
 develop:
-	hugo server --theme=srg --watch
+	hugo server --theme=$(THEME) --watch
 
 github: html
 	git add -A

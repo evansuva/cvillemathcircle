@@ -1,9 +1,21 @@
 <div class="sidebar pure-u-1 pure-u-md-1-4">
   <div class="header">
-    {{ partial "sidebarheader.html" . }}
+<center>
+<a href="/images/IMG_7783.jpg"><img src="/images/IMG_7783-small.png" width=320></a>
+   <a href="{{ .Site.BaseURL}}"><h1 class="brand-title">Cville Math Circle</h1></a>
+</center>
+<h2 class="brand-tagline">Secret Order of the Twin Primes</h2>
+<p>
+A <em>math circle</em> is a group of people playing together with mathematical
+puzzles and problems.  Our math circle is for three and four year-old
+girls, and focused on open exploration with mathematical concepts.
+</p>
+<p>
+<b>Meetings:</b><Br>
+Saturdays at 3:30pm at
+<a href="https://bit.ly/1RTNLkK">Fontana&nbsp;Clubhouse</a>
 
-    {{ if .Site.Params.sidebartitle }}<a href="{{ .Site.BaseURL}}"><h1 class="brand-title">{{ .Site.Params.sidebartitle }}</h1></a>{{ end }}
-    {{ if .Site.Params.sidebartagline }}<h2 class="brand-tagline">{{ .Site.Params.sidebartagline }}</h2>{{ end }}
+
 
 <!--
     <nav class="nav">
