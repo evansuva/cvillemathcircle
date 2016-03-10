@@ -40,11 +40,18 @@ a.pure-button-primary:hover, a.pure-button-primary:focus {
 p a {
 	color:#08088A;
         text-decoration: none;
+   
 }
 h1 {
 	font-family: 'Libre Baskerville', serif;
 	font-weight: 700; 
 }
+
+h3 {
+   font-size: 1.5rem;
+   color: #663399;
+}
+
 .center {
 	text-align: center;
 }
@@ -81,14 +88,13 @@ h1 {
 h1.brand-title {
 	font-family: 'Libre Baskerville', serif;
 	font-weight: 400;
-	padding-top: 0.2rem;
-	font-size: 2.0rem;
+	padding-top: 1rem;
+	font-size: 2rem;
 	margin-bottom: 0.25rem;
 }
 h2.brand-tagline {
 	font-family: 'Libre Baskerville', serif;
-	font-size: 1.5rem;
-        font-face: italics;
+	font-size: 1.0rem;
 	margin-top: 0.25rem;
 }
 h2.brand-group {
@@ -98,6 +104,11 @@ h2.brand-group {
 	margin-top: 0.25rem;
 	color: #fffff;
 }
+
+.sidebar p {
+   font-size: 0.9rem;
+}
+
 .sidebar h1.brand-title {
 	color: #fff;
 }

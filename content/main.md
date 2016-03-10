@@ -3,7 +3,7 @@ title = "Charlottesville Math Circle"
 +++
 
 
-#### 27 February 2016: **Commutativity!**
+### 27 February 2016: **Commutativity!**
 
 <a href="/images/IMG_7788.jpg"><img src="/images/IMG_7788-small.png" width=800 height=647></a>
 
