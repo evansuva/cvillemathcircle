@@ -37,6 +37,9 @@ same color when we mix the same colors, regardless of the order in which
 they are mixed.  Mostly, though, we eventually end up with a murky, greenish-purple
 color after enough colors are combined.&lt;/p&gt;
 
+&lt;pre&gt;&lt;code&gt;Red + Blue = Purple = Blue + Red
+&lt;/code&gt;&lt;/pre&gt;
+
 &lt;h3 id=&#34;5-march-2016-transitivity:379caad01b6ea305187be199bcac1370&#34;&gt;5 March 2016: &lt;strong&gt;Transitivity&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;h3 id=&#34;founders:379caad01b6ea305187be199bcac1370&#34;&gt;Founders&lt;/h3&gt;
