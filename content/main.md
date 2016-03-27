@@ -28,13 +28,13 @@ Mommy Bunny => Mommy and Baby
 <a href="/images/sets/20160319_153841.jpg"><img src="/images/sets/20160319_153841.jpg" width=800></a>
 </p>
 <p>
-<table width="100%" cellspacing=10>
+<table width="100%" cellspacing=5 cellpadding=2>
 <tr>
 <td>
-<a href="/images/sets/20160319_155107.jpg"><img src="/images/sets/20160319_155107.jpg" height=300></a>
+<a href="/images/sets/20160319_155107.jpg"><img src="/images/sets/20160319_155107.jpg" height=280></a>
 </td>
 <td>
-<a href="/images/sets/20160319_160444.jpg"><img src="/images/sets/20160319_160444.jpg" height=300></a>
+<a href="/images/sets/20160319_160444.jpg"><img src="/images/sets/20160319_160444.jpg" height=280></a>
 </td>
 </tr>
 </table>
