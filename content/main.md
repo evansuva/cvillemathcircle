@@ -6,9 +6,10 @@ title = "Charlottesville Math Circle"
 
 <a href="/images/IMG_8073.jpg"><img src="/images/IMG_8073-3.jpg" width=800 height=485></a>
 
+Can't have an Easter weekend meeting without lots of bunnies!
 <center>
-Baby Bunny => Mommy Bunny<br>
-Mommy Bunny => Mommy and Baby
+Baby Bunny &#8658; Mommy Bunny<br>
+Mommy Bunny &#8658; Mommy Bunny and Baby Bunny
 </center>
 <p>
 <a href="/images/IMG_8082.jpg"><img src="/images/IMG_8082-3.jpg" width=800></a>
