@@ -28,18 +28,18 @@ Mommy Bunny &#8658; Mommy Bunny and Baby Bunny
 <p>
 <a href="/images/sets/20160319_153841.jpg"><img src="/images/sets/20160319_153841.jpg" width=800></a>
 </p>
-<p>
+<center>
 <table width="100%" cellspacing=5 cellpadding=2>
 <tr>
 <td>
-<a href="/images/sets/20160319_155107.jpg"><img src="/images/sets/20160319_155107.jpg" height=280></a>
+<a href="/images/sets/20160319_155107.jpg"><img src="/images/sets/20160319_155107.jpg" height=300 width=381></a>
 </td>
 <td>
-<a href="/images/sets/20160319_160444.jpg"><img src="/images/sets/20160319_160444.jpg" height=280></a>
+<a href="/images/sets/20160319_160444.jpg"><img src="/images/sets/20160319_160444.jpg" height=300 width=387></a>
 </td>
 </tr>
 </table>
-</p>
+</center>
 
 
 ### 5 March 2016: **Transitivity!**
