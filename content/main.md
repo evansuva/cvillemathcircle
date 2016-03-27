@@ -40,7 +40,8 @@ Mommy Bunny &#8658; Mommy Bunny and Baby Bunny
 </tr>
 </table>
 </p>
-
+<p>
+</p>
 
 ### 5 March 2016: **Transitivity!**
 
