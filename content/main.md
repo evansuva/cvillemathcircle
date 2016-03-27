@@ -2,6 +2,45 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 26 March 2016: **Fibonacci Bunnies!**
+
+<a href="/images/IMG_8073.jpg"><img src="/images/IMG_8073-3.jpg" width=800 height=485></a>
+
+<center>
+Baby Bunny => Mommy Bunny<br>
+Mommy Bunny => Mommy and Baby
+</center>
+<p>
+<a href="/images/IMG_8082.jpg"><img src="/images/IMG_8082-3.jpg" width=800></a>
+</p>
+<p>
+<a href="/images/IMG_8075.jpg"><img src="/images/IMG_8075-3.jpg" width=800></a>
+</p>
+### 19 March 2016: **Set Theory: Unicorns, Pegasi, and Alicorns**
+
+<p>
+<a href="/images/sets/20160319_153834.jpg"><img src="/images/sets/20160319_153834.jpg" width=800></a>
+</p>
+<p>
+<a href="/images/sets/20160319_153841.jpg"><img src="/images/sets/20160319_153841.jpg" width=800></a>
+</p>
+<p>
+<a href="/images/sets/20160319_153841.jpg"><img src="/images/sets/20160319_153841.jpg" width=800></a>
+</p>
+<p>
+<table width="100%" cellspacing=10>
+<tr>
+<td>
+<a href="/images/sets/20160319_155107.jpg"><img src="/images/sets/20160319_155107.jpg" height=300></a>
+</td>
+<td>
+<a href="/images/sets/20160319_160444.jpg"><img src="/images/sets/20160319_160444.jpg" height=300></a>
+</td>
+</tr>
+</table>
+</p>
+
+
 ### 5 March 2016: **Transitivity!**
 
 <a href="/images/IMG_7888.jpg"><img src="/images/IMG_7888-2.jpg" width=800 height=617></a>
