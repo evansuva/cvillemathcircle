@@ -66,11 +66,11 @@ What angle of water shoots the furthest?  Who can get Daddy the wettest?
 </td>
 </tr>
 </table>
-</center>
 
 Inspired by [_The Gruffalo's
 Child_](https://en.wikipedia.org/wiki/The_Gruffalo%27s_Child), we saw
 who could make the biggest shadows.
+</center>
 
 ### 9 April 2016: **Double Dice Probabilities**
 
@@ -81,7 +81,7 @@ who could make the biggest shadows.
 <a href="/images/IMG_8154.jpg"><img src="/images/IMG_8154.jpg" height=350></a>
 </td>
 <td>
-<a href="/images/IMG_8157.jpg"><img src="/images/IMG_8157.jpg" height=350></a>
+<a href="/images/IMG_8156.jpg"><img src="/images/IMG_8156.jpg" height=350></a>
 </td>
 </tr>
 </table>
