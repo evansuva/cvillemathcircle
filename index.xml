@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CvilleMathCircle</title>
-    <link>http://cvillemathcircle.org/</link>
+    <link>http://cvillemathcircle.org/index.xml</link>
     <description>Recent content on CvilleMathCircle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -15,6 +15,29 @@
       
       <guid>http://cvillemathcircle.org/main/</guid>
       <description>
+
+&lt;h3 id=&#34;3-december-2016-hamiltonian-cycles&#34;&gt;3 December 2016: &lt;strong&gt;Hamiltonian Cycles!&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Find a path that starts from the castle and visits each character
+once, but cannot use any road more than once.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://cvillemathcircle.org/docs/hamiltoncycles.png&#34;&gt;&lt;br&gt;
+[&lt;a href=&#34;http://cvillemathcircle.org/docs/hamiltoncycles.pptx&#34;&gt;PowerPoint&lt;/a&gt;]&lt;/center&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;24-september-2016-ruling-rulers&#34;&gt;24 September 2016: &lt;strong&gt;Ruling Rulers&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://cvillemathcircle.org/images/IMG_0203.JPG&#34; width=400&gt;&lt;/a&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://cvillemathcircle.org/images/IMG_0205.JPG&#34; width=400&gt;&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/center&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;28-august-2016-trying-triangles&#34;&gt;28 August 2016: &lt;strong&gt;Trying Triangles&lt;/strong&gt;&lt;/h3&gt;
 
