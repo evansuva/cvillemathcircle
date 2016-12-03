@@ -1,6 +1,6 @@
 GITHUB_PAGES_BRANCH=gh-pages
 SITENAME=cvillemathcircle
-THEME = mathcircle
+THEME = math
 
 html:
 	hugo --theme=$(THEME)
