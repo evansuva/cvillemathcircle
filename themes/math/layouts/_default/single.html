@@ -1,0 +1,8 @@
+{{ partial "head" . }}
+this is it!
+<article id="main-content" class="container main_content single">
+  {{ .Render "single.hat" }}
+  {{ .Render "single.content" }}
+  {{ .Render "single.boot" }}
+</article>
+{{ partial "foot" . }}
