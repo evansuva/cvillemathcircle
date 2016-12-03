@@ -72,6 +72,20 @@ Inspired by [_The Gruffalo's
 Child_](https://en.wikipedia.org/wiki/The_Gruffalo%27s_Child), we saw
 who could make the biggest shadows.
 
+### 9 April 2016: **Double Dice Probabilities**
+
+<center>
+<table>
+<tr>
+<td>
+<a href="/images/IMG_8154.jpg"><img src="/images/IMG_8154.jpg" height=350></a>
+</td>
+<td>
+<a href="/images/IMG_8157.jpg"><img src="/images/IMG_8157.jpg" height=350></a>
+</td>
+</tr>
+</table>
+</center>
 
 ### 26 March 2016: **Fibonacci Bunnies!**
 
