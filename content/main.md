@@ -2,6 +2,54 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 2 March 2017: **Viral Stories**
+
+(Inspired by [_Tiddler: The Story-Telling Fish_](https://www.amazon.com/Tiddler-Julia-Donaldson/dp/140710621X/ref=sr_1_1?ie=UTF8&qid=1488596719&sr=8-1&keywords=tiddler))
+
+How long does it take for a story to spread across the ocean?  What if
+everyone tells the story to just one person?  What if everyone tells
+the story to two new people?  (We don't have enough fish, but enough
+stuffies to get through 6 stages!)
+
+<center>
+<table>
+<tr>
+<td>
+<a href="/images/IMG_1876.jpg"><img src="/images/IMG_1876_2.jpg" height=400></img></a>
+</td>
+<td>
+<a href="/images/IMG_1878.jpg"><img src="/images/IMG_1878_2.jpg" height=400></img></a>
+</td>
+</tr>
+</table>
+<a href="/images/IMG_1885.jpg"><img src="/images/IMG_1885_2.jpg" width=600></img></a>
+<br>
+(No pictures of actual math for this one, but lots of jumping in luggage!)
+</center>
+
+### 23 February 2017: **Crazy Calendars**
+
+Calendars are puzzles - the last day of this month, first with the
+first day of the next month.  There are different shapes of months
+because the number of days is either 30 or 31, and February is really
+odd.
+
+<center>
+<table>
+<tr>
+<td>
+<a href="/images/IMG_1862.jpg"><img src="/images/IMG_1862_2.jpg" height=400></img></a>
+</td><td>
+<A href="/images/IMG_1865.jpg"><img src="/images/IMG_1865_2.jpg" height=400></img></a>
+</td>
+</tr>
+</table>
+<a href="/images/IMG_1867.jpg"><img src="/images/IMG_1867.jpg" width=700></img></a><Br>
+Lucky for us, everyone's birthday is between today and the end of June!
+</center>
+
+Calendars (Excel spreadsheets, to print, use landscape mode and scale-to-fit): [31-day months](/docs/calendar.xlsx), [30-day months](/docs/calendar30.xlsx), [28-day months](/docs/calendar28.xlsx)
+
 ### 3 December 2016: **Hamiltonian Cycles!**
 
 Find a path that starts from the castle and visits each character
