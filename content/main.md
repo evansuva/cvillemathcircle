@@ -2,7 +2,7 @@
 title = "Charlottesville Math Circle"
 +++
 
-### 2 March 2017: **Viral Stories**
+### 2 March 2017: **Viral Fishy Stories**
 
 (Inspired by [_Tiddler: The Story-Telling Fish_](https://www.amazon.com/Tiddler-Julia-Donaldson/dp/140710621X/ref=sr_1_1?ie=UTF8&qid=1488596719&sr=8-1&keywords=tiddler))
 
