@@ -15,14 +15,13 @@ stuffies to get through 6 stages!)
 <table>
 <tr>
 <td>
-<a href="/images/IMG_1876.jpg"><img src="/images/IMG_1876-2.jpg" height=250></img></a>
+<a href="/images/IMG_1876.jpg"><img src="/images/IMG_1876-2.jpg" height=300></img></a>
 </td>
 <td>
-<a href="/images/IMG_1878.jpg"><img src="/images/IMG_1878-2.jpg" height=250></img></a>
+<a href="/images/IMG_1878.jpg"><img src="/images/IMG_1878-2.jpg" height=300></img></a>
 </td>
 </tr>
 </table>
-<br></br>
 
 <a href="/images/IMG_1885.jpg"><img src="/images/IMG_1885-2.jpg" width=600></img></a>
 <br>
@@ -40,13 +39,13 @@ odd.
 <table>
 <tr>
 <td>
-<a href="/images/IMG_1862.jpg"><img src="/images/IMG_1862-2.jpg" height=250></img></a>
+<a href="/images/IMG_1862.jpg"><img src="/images/IMG_1862-2.jpg" height=300></img></a>
 </td><td>
-<A href="/images/IMG_1865.jpg"><img src="/images/IMG_1865-2.jpg" height=250></img></a>
+<A href="/images/IMG_1865.jpg"><img src="/images/IMG_1865-2.jpg" height=300></img></a>
 </td>
 </tr>
 </table>
-<br></br>
+
 <a href="/images/IMG_1867.jpg"><img src="/images/IMG_1867.jpg" width=600></img></a><Br>
 Lucky for us, everyone's birthday is between today and the end of June!  (Charlotte and Dorina are fighting over the June 29 square.)
 </center>
