@@ -48,7 +48,7 @@ odd.
 </table>
 <br></br>
 <a href="/images/IMG_1867.jpg"><img src="/images/IMG_1867.jpg" width=600></img></a><Br>
-Lucky for us, everyone's birthday is between today and the end of June!
+Lucky for us, everyone's birthday is between today and the end of June!  (Charlotte and Dorina are fighting over the June 29 square.)
 </center>
 
 Calendars (Excel spreadsheets, to print, use landscape mode and scale-to-fit): [31-day months](/docs/calendar30.xlsx), [30-day months](/docs/calendar28.xlsx)
