@@ -48,7 +48,7 @@ odd.
 Lucky for us, everyone's birthday is between today and the end of June!
 </center>
 
-Calendars (Excel spreadsheets, to print, use landscape mode and scale-to-fit): [31-day months](/docs/calendar.xlsx), [30-day months](/docs/calendar30.xlsx), [28-day months](/docs/calendar28.xlsx)
+Calendars (Excel spreadsheets, to print, use landscape mode and scale-to-fit): [31-day months](/docs/calendar30.xlsx), [30-day months](/docs/calendar28.xlsx)
 
 ### 3 December 2016: **Hamiltonian Cycles!**
 
