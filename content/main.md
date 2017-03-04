@@ -15,14 +15,14 @@ stuffies to get through 6 stages!)
 <table>
 <tr>
 <td>
-<a href="/images/IMG_1876.jpg"><img src="/images/IMG_1876_2.jpg" height=400></img></a>
+<a href="/images/IMG_1876.jpg"><img src="/images/IMG_1876-2.jpg" height=400></img></a>
 </td>
 <td>
-<a href="/images/IMG_1878.jpg"><img src="/images/IMG_1878_2.jpg" height=400></img></a>
+<a href="/images/IMG_1878.jpg"><img src="/images/IMG_1878-2.jpg" height=400></img></a>
 </td>
 </tr>
 </table>
-<a href="/images/IMG_1885.jpg"><img src="/images/IMG_1885_2.jpg" width=600></img></a>
+<a href="/images/IMG_1885.jpg"><img src="/images/IMG_1885-2.jpg" width=600></img></a>
 <br>
 (No pictures of actual math for this one, but lots of jumping in luggage!)
 </center>
@@ -38,9 +38,9 @@ odd.
 <table>
 <tr>
 <td>
-<a href="/images/IMG_1862.jpg"><img src="/images/IMG_1862_2.jpg" height=400></img></a>
+<a href="/images/IMG_1862.jpg"><img src="/images/IMG_1862-2.jpg" height=400></img></a>
 </td><td>
-<A href="/images/IMG_1865.jpg"><img src="/images/IMG_1865_2.jpg" height=400></img></a>
+<A href="/images/IMG_1865.jpg"><img src="/images/IMG_1865-2.jpg" height=400></img></a>
 </td>
 </tr>
 </table>
