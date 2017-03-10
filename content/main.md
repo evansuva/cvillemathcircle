@@ -4,18 +4,15 @@ title = "Charlottesville Math Circle"
 
 ### 9 March 2017: **Shadowy Similar Triangles**
 
-<table>
+<table width=100%>
 <tr>
 <td style="align: middle;">
 <a href="/images/20170309_163334.jpg"><img src="/images/20170309_163334-2.jpg" height="400"></a>
 </td>
 <td>
-<center><em>How tall is the tall, tall tree?</em>
-<br></br>
-Let's use our shadows to measure its shadow!
-
-<a href="/images/20170309_162739.jpg"><img src="/images/20170309_162739-2.jpg" height="320"></a><br>
-
+<center><em>How tall is the tall, tall tree?</em><br>
+Let's use our shadows to measure its shadow!<br>
+<a href="/images/20170309_162739.jpg"><img src="/images/20170309_162739-2.jpg" height="335"></a><br>
 Opps...it goes across the street.  We'll have to try again closer to noon.
 </center>
 </td>
