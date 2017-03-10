@@ -2,6 +2,26 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 9 March 2017: **Shadowy Similar Triangles**
+
+<table>
+<tr>
+<td width="20%">
+<a href="/images/20170309_16334.jpg"><img src="/images/20170309_16334-2.jpg" width="100"></a>
+</td>
+<td width="80%">
+<center><em>How tall is the tall, tall tree?</em></center>
+
+Let's use our shadows to measure its shadow!
+<center>
+<a href="/images/20170309_162739.jpg"><img src="/images/20170309_162739-2.jpg" width="800"></a>
+</center>
+
+Opps...it goes across the street.  We'll have to try again closer to noon.
+</td>
+</tr>
+</table>
+
 ### 2 March 2017: **Viral Fishy Stories**
 
 (Inspired by [_Tiddler: The Story-Telling Fish_](https://www.amazon.com/Tiddler-Julia-Donaldson/dp/140710621X/ref=sr_1_1?ie=UTF8&qid=1488596719&sr=8-1&keywords=tiddler))
