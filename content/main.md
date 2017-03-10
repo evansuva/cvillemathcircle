@@ -10,8 +10,8 @@ title = "Charlottesville Math Circle"
 <a href="/images/20170309_163334.jpg"><img src="/images/20170309_163334-2.jpg" height="320"></a>
 </td>
 <td>
-<center><em>How tall is the tall, tall tree?</em><
-
+<center><em>How tall is the tall, tall tree?</em>
+<br></br>
 Let's use our shadows to measure its shadow!
 
 <a href="/images/20170309_162739.jpg"><img src="/images/20170309_162739-2.jpg" height="320"></a><br>
