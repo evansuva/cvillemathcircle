@@ -6,10 +6,10 @@ title = "Charlottesville Math Circle"
 
 <table>
 <tr>
-<td width="20%">
+<td>
 <a href="/images/20170309_163334.jpg"><img src="/images/20170309_163334-2.jpg" height="320"></a>
 </td>
-<td width="80%">
+<td>
 <center><em>How tall is the tall, tall tree?</em><
 
 Let's use our shadows to measure its shadow!
