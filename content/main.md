@@ -7,17 +7,17 @@ title = "Charlottesville Math Circle"
 <table>
 <tr>
 <td width="20%">
-<a href="/images/20170309_163334.jpg"><img src="/images/20170309_163334-2.jpg" width="100"></a>
+<a href="/images/20170309_163334.jpg"><img src="/images/20170309_163334-2.jpg" height="320"></a>
 </td>
 <td width="80%">
-<center><em>How tall is the tall, tall tree?</em></center>
+<center><em>How tall is the tall, tall tree?</em><
 
 Let's use our shadows to measure its shadow!
-<center>
-<a href="/images/20170309_162739.jpg"><img src="/images/20170309_162739-2.jpg" width="700"></a>
-</center>
+
+<a href="/images/20170309_162739.jpg"><img src="/images/20170309_162739-2.jpg" height="320"></a><br>
 
 Opps...it goes across the street.  We'll have to try again closer to noon.
+</center>
 </td>
 </tr>
 </table>
