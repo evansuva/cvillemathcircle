@@ -4,7 +4,7 @@ title = "Charlottesville Math Circle"
 
 ### 9 March 2017: **Shadowy Similar Triangles**
 
-<table width=100%>
+<table width=850>
 <tr>
 <td style="align: middle;">
 <a href="/images/20170309_163334.jpg"><img src="/images/20170309_163334-2.jpg" height="400"></a>
