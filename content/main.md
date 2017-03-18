@@ -11,7 +11,7 @@ title = "Charlottesville Math Circle"
 <a href="/images/IMG_1947.jpg"><img src="/images/IMG_1947-2.jpg" height=300></img></a>
 </td>
 <td>
-<a href="/images/IMG_1949.jpg"><img src="/images/IMG_1949-2x.jpg" height=300></img></a>
+<a href="/images/IMG_1949.jpg"><img src="/images/IMG_1949-2.jpg" height=300></img></a>
 </td>
 </tr>
 </table>
