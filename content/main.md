@@ -2,6 +2,21 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 16 March 2017: **Polygons**
+
+<center>
+<table>
+<tr>
+<td>
+<a href="/images/IMG_1947.jpg"><img src="/images/IMG_1876-2.jpg" height=300></img></a>
+</td>
+<td>
+<a href="/images/IMG_1949.jpg"><img src="/images/IMG_1878-2.jpg" height=300></img></a>
+</td>
+</tr>
+</table>
+</center>
+
 ### 9 March 2017: **Shadowy Similar Triangles**
 
 <table width=850>
