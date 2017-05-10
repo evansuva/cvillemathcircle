@@ -2,6 +2,22 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 13 April 2017: **Egg Coloring**
+
+<center>
+<table>
+<tr>
+<td>
+<a href="/images/IMG_20170413_163750.jpg"><img src="/images/IMG_20170413_163750-2.jpg" height=300></img></a>
+</td>
+<td>
+<a href="/images/IMG_20170413_162449.jpg"><img src="/images/IMG_20170413_162449-2.jpg" height=300></img></a>
+</td>
+</tr>
+</table>
+</center>
+
+
 ### 16 March 2017: **Polygons**
 
 <center>
