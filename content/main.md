@@ -8,10 +8,10 @@ title = "Charlottesville Math Circle"
 <table>
 <tr>
 <td>
-<a href="/images/IMG_20170413_163750.jpg"><img src="/images/IMG_20170413_163750-2.jpg" height=330></img></a>
+<a href="/images/IMG_20170413_163750.jpg"><img src="/images/IMG_20170413_163750-2.jpg" height=340></img></a>
 </td>
 <td>
-<a href="/images/IMG_20170413_162449.jpg"><img src="/images/IMG_20170413_162449-2.jpg" height=330></img></a>
+<a href="/images/IMG_20170413_162449.jpg"><img src="/images/IMG_20170413_162449-2.jpg" height=340></img></a>
 </td>
 </tr>
 </table>
