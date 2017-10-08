@@ -2,7 +2,7 @@
 title = "Charlottesville Math Circle"
 +++
 
-### 7 October: **Electro-Dough**
+### 7 October 2017: **Electro-Dough**
 
 Add some salt (and lemon juice) to dough, and it conducts! Let's make
 some circuits.
@@ -21,7 +21,7 @@ some circuits.
 </center>
 
 
-### 23 September: **Weight Puzzle**
+### 23 September 2017: **Weight Puzzle**
 
 There are twelve balls, eleven are the same, but one has a different
 weight from the others. How can you find the ball with the different
@@ -84,7 +84,7 @@ The big purple ball represents the sun.
 <table>
 <tr>
 <td width="20%"><b>Radius of Sun</b></td><td width="15%"> 432288 miles</td>
-<td width="27%"><b>Distance from Sun to Earth</b></td><td width="38%"> 92,960,000 miles = 215 times the sun's radius</td>
+<td width="27%"><b>Distance from Sun to Earth</b></td><td width="38%"> 93 million miles = 215 sun radii</td>
 </tr>
 <tr>
 <td><b>Radius of the Earth</b></td><td> 3959 miles</td>
