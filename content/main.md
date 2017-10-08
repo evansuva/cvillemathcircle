@@ -26,6 +26,7 @@ shore?
 <A href="/images/images/IMG_20170909_165501.jpg"><img src="/images/images/IMG_20170909_165501-2.jpg" height="320">
 </td>
 </tr>
+</table>
 
 
 ### 26 August 2017: **Eclipse**
