@@ -12,20 +12,25 @@ On August 21 there was a total solar eclipse for parts of the US, and a near-tot
 
 The big purple ball represents the sun. 
 
-<table>
+<table cell-spacing=8>
 <tr>
-<td><b>Radius of Sun</b></td><td> 432288 miles</td></tr>
+<td><b>Radius of Sun</b></td><td> 432288 miles</td>
+<td><b>Distance from Sun to Earth</b></td><td> 92,960,000 miles = 215 times the sun's radius</td>
+</tr>
 <tr>
-<td><b>Radius of the Earth</b></td><td> 3959 miles</td></tr>
+<td><b>Radius of the Earth</b></td><td> 3959 miles</td>
+<td><b>Earth distances to Sun</b></td><td> 23,480 times the radius of the Earth</td></tr>
 <tr>
-<td><b>Radius of the Moon</b></td><td> 1079 miles</td></tr>
+<td><b>Radius of the Moon</b></td><td> 1079 miles</td></td>
+<b>Distance from Earch to Moon</b></td><td> 239,800 miles = 60.5 times the earth's radius</td></tr>
+</tr>
 </table>
 
 So, to represent the Earth we need something roughly 1/109 the radius
 of the sun. For the big purple ball, which has radius about 10 inches,
 we needed something with radius 0.01 inches - a small marble was the
 closest readily available, but with its blue and green swirly color
-made an excellent eary. The moon, 1/3 the radius of the earth, was a
+made an excellent earth. The moon, 1/3 the radius of the earth, was a
 small piece of fuzz.
 
 Scaling the size of the Sun down to the big purple ball, means the
@@ -44,12 +49,15 @@ the sun, and the moon would be 5.5 inches from the earth.
 </td>
 </tr>
 </table>
+
+It actually worked! If you held the moon (fuzz) in just the right
+place, it would just occlude the sun.  
+
 <center>
 <a href="/images/IMG_3321.jpg"><img src="/images/IMG_3321-2.jpg" width="500"></img></a>
 </center>
 
-It actually worked! If you held the moon (fuzz) in just the right
-place, it would just occlude the sun.  We will be ready for the next eclipse in 2024!
+We will be ready for the next eclipse in 2024!
 
 ### 13 April 2017: **Egg Coloring**
 

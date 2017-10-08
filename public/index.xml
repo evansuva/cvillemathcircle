@@ -26,20 +26,25 @@
 
 &lt;p&gt;The big purple ball represents the sun.&lt;/p&gt;
 
-&lt;table&gt;
+&lt;table cell-spacing=8&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;b&gt;Radius of Sun&lt;/b&gt;&lt;/td&gt;&lt;td&gt; 432288 miles&lt;/td&gt;&lt;/tr&gt;
+&lt;td&gt;&lt;b&gt;Radius of Sun&lt;/b&gt;&lt;/td&gt;&lt;td&gt; 432288 miles&lt;/td&gt;
+&lt;td&gt;&lt;b&gt;Distance from Sun to Earth&lt;/b&gt;&lt;/td&gt;&lt;td&gt; 92,960,000 miles = 215 times the sun&#39;s radius&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;b&gt;Radius of the Earth&lt;/b&gt;&lt;/td&gt;&lt;td&gt; 3959 miles&lt;/td&gt;&lt;/tr&gt;
+&lt;td&gt;&lt;b&gt;Radius of the Earth&lt;/b&gt;&lt;/td&gt;&lt;td&gt; 3959 miles&lt;/td&gt;
+&lt;td&gt;&lt;b&gt;Earth distances to Sun&lt;/b&gt;&lt;/td&gt;&lt;td&gt; 23,480 times the radius of the Earth&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;b&gt;Radius of the Moon&lt;/b&gt;&lt;/td&gt;&lt;td&gt; 1079 miles&lt;/td&gt;&lt;/tr&gt;
+&lt;td&gt;&lt;b&gt;Radius of the Moon&lt;/b&gt;&lt;/td&gt;&lt;td&gt; 1079 miles&lt;/td&gt;&lt;/td&gt;
+&lt;b&gt;Distance from Earch to Moon&lt;/b&gt;&lt;/td&gt;&lt;td&gt; 239,800 miles = 60.5 times the earth&#39;s radius&lt;/td&gt;&lt;/tr&gt;
+&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;p&gt;So, to represent the Earth we need something roughly &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;109&lt;/sub&gt; the radius
 of the sun. For the big purple ball, which has radius about 10 inches,
 we needed something with radius 0.01 inches - a small marble was the
 closest readily available, but with its blue and green swirly color
-made an excellent eary. The moon, &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; the radius of the earth, was a
+made an excellent earth. The moon, &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; the radius of the earth, was a
 small piece of fuzz.&lt;/p&gt;
 
 &lt;p&gt;Scaling the size of the Sun down to the big purple ball, means the
@@ -57,13 +62,16 @@ the sun, and the moon would be 5.5 inches from the earth.&lt;/p&gt;
 &lt;a href=&#34;http://cvillemathcircle.org/images/IMG_3317.jpg&#34;&gt;&lt;img src=&#34;http://cvillemathcircle.org/images/IMG_3317-2.jpg&#34; height=&#34;360&#34;&gt;&lt;/img&gt;&lt;/a&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
-&lt;/table&gt;
-&lt;center&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;p&gt;It actually worked! If you held the moon (fuzz) in just the right
+place, it would just occlude the sun.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
 &lt;a href=&#34;http://cvillemathcircle.org/images/IMG_3321.jpg&#34;&gt;&lt;img src=&#34;http://cvillemathcircle.org/images/IMG_3321-2.jpg&#34; width=&#34;500&#34;&gt;&lt;/img&gt;&lt;/a&gt;
 &lt;/center&gt;&lt;/p&gt;
 
-&lt;p&gt;It actually worked! If you held the moon (fuzz) in just the right
-place, it would just occlude the sun.  We will be ready for the next eclipse in 2024!&lt;/p&gt;
+&lt;p&gt;We will be ready for the next eclipse in 2024!&lt;/p&gt;
 
 &lt;h3 id=&#34;13-april-2017-egg-coloring&#34;&gt;13 April 2017: &lt;strong&gt;Egg Coloring&lt;/strong&gt;&lt;/h3&gt;
 
