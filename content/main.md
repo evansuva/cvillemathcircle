@@ -81,6 +81,7 @@ On August 21 there was a total solar eclipse for parts of the US, and a near-tot
 
 The big purple ball represents the sun. 
 
+<center>
 <table>
 <tr>
 <td width="20%"><b>Radius of Sun</b></td><td width="15%"> 432288 miles</td>
@@ -94,6 +95,7 @@ The big purple ball represents the sun.
 <td><b>Distance from Earth to Moon</b></td><td> 239,800 miles = 60.5 times the earth's radius</td></tr>
 </tr>
 </table>
+</center>
 
 So, to represent the Earth we need something roughly 1/109 the radius
 of the sun. For the big purple ball, which has radius about 10 inches,
@@ -118,6 +120,7 @@ the sun, and the moon would be 5.5 inches from the earth.
 </td>
 </tr>
 </table>
+</center>
 
 It actually worked! If you held the moon (fuzz) in just the right
 place, it would just occlude the sun.  

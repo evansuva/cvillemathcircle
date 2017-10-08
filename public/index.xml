@@ -94,6 +94,7 @@ shore?&lt;/p&gt;
 
 &lt;p&gt;The big purple ball represents the sun.&lt;/p&gt;
 
+&lt;p&gt;&lt;center&gt;
 &lt;table&gt;
 &lt;tr&gt;
 &lt;td width=&#34;20%&#34;&gt;&lt;b&gt;Radius of Sun&lt;/b&gt;&lt;/td&gt;&lt;td width=&#34;15%&#34;&gt; 432288 miles&lt;/td&gt;
@@ -104,9 +105,10 @@ shore?&lt;/p&gt;
 &lt;td&gt;&lt;b&gt;Earth radii to Sun&lt;/b&gt;&lt;/td&gt;&lt;td&gt; 23,480&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;b&gt;Radius of the Moon&lt;/b&gt;&lt;/td&gt;&lt;td&gt; 1079 miles&lt;/td&gt;
-&lt;td&gt;&lt;b&gt;Distance from Earth to Moon&lt;/b&gt;&lt;/td&gt;&lt;td&gt; 239,800 miles = 60.5 times the earth&#39;s radius&lt;/td&gt;&lt;/tr&gt;
+&lt;td&gt;&lt;b&gt;Distance from Earth to Moon&lt;/b&gt;&lt;/td&gt;&lt;td&gt; 239,800 miles = 60.5 times the earth&amp;rsquo;s radius&lt;/td&gt;&lt;/tr&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
+&lt;/center&gt;&lt;/p&gt;
 
 &lt;p&gt;So, to represent the Earth we need something roughly &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;109&lt;/sub&gt; the radius
 of the sun. For the big purple ball, which has radius about 10 inches,
@@ -130,7 +132,8 @@ the sun, and the moon would be 5.5 inches from the earth.&lt;/p&gt;
 &lt;a href=&#34;http://cvillemathcircle.org/images/IMG_3317.jpg&#34;&gt;&lt;img src=&#34;http://cvillemathcircle.org/images/IMG_3317-2.jpg&#34; height=&#34;300&#34;&gt;&lt;/img&gt;&lt;/a&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
-&lt;/table&gt;&lt;/p&gt;
+&lt;/table&gt;
+&lt;/center&gt;&lt;/p&gt;
 
 &lt;p&gt;It actually worked! If you held the moon (fuzz) in just the right
 place, it would just occlude the sun.&lt;/p&gt;
