@@ -43,6 +43,14 @@ weight using the minimum number of scale weighings?
 </table>
 </center>
 
+### 16 September: **Mirror Symmetry**
+
+What is the next image in the pattern?
+
+<center>
+<img src="/images/mirrorsymmetry.png" width="400">
+</center>
+
 ### 9 September: **The Farmer, the Fox, the Goose, and the Grain**
 
 The farmer has a fox (who will eat the goose), goose (who will eat the
