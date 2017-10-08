@@ -46,7 +46,7 @@ The big purple ball represents the sun.
 </tr>
 <tr>
 <td><b>Radius of the Earth</b></td><td> 3959 miles</td>
-<td><b>Earth distances to Sun</b></td><td> 23,480 times the radius of the Earth</td></tr>
+<td><b>Earth radiiuses to Sun</b></td><td> 23,480</td></tr>
 <tr>
 <td><b>Radius of the Moon</b></td><td> 1079 miles</td>
 <td><b>Distance from Earth to Moon</b></td><td> 239,800 miles = 60.5 times the earth's radius</td></tr>
