@@ -2,6 +2,32 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 9 September: **The Farmer, the Fox, the Goose, and the Grain**
+
+The farmer has a fox (who will eat the goose), goose (who will eat the
+grain), and grain to bring back from the market in a boat that can
+only carry one at a time. How can the farmer get everyone safely to
+shore?
+
+<table>
+<tr>
+<td> 
+<A href="/images/images/IMG_20170909_165442.jpg"><img src="/images/images/IMG_20170909_165442-2.jpg" height="320">
+</td>
+<td>
+<A href="/images/images/IMG_20170909_165443.jpg"><img src="/images/images/IMG_20170909_165443-2.jpg" height="320">
+</td>
+</tr>
+<tr>
+<td>
+<A href="/images/images/IMG_20170909_164946.jpg"><img src="/images/images/IMG_20170909_164946-2.jpg" height="320">
+</td>
+<td>
+<A href="/images/images/IMG_20170909_165501.jpg"><img src="/images/images/IMG_20170909_165501-2.jpg" height="320">
+</td>
+</tr>
+
+
 ### 26 August 2017: **Eclipse**
 
 On August 21 there was a total solar eclipse for parts of the US, and a near-total solar eclipse for Charlottesville. For the next math club, we wanted to understand what an Eclipse was, and why they are so rare. 
@@ -12,17 +38,17 @@ On August 21 there was a total solar eclipse for parts of the US, and a near-tot
 
 The big purple ball represents the sun. 
 
-<table cell-spacing=8>
+<table>
 <tr>
-<td><b>Radius of Sun</b></td><td> 432288 miles</td>
-<td><b>Distance from Sun to Earth</b></td><td> 92,960,000 miles = 215 times the sun's radius</td>
+<td width="20%"><b>Radius of Sun</b></td><td width="30%"> 432288 miles</td>
+<td width="20%"><b>Distance from Sun to Earth</b></td><td width="30%"> 92,960,000 miles = 215 times the sun's radius</td>
 </tr>
 <tr>
 <td><b>Radius of the Earth</b></td><td> 3959 miles</td>
 <td><b>Earth distances to Sun</b></td><td> 23,480 times the radius of the Earth</td></tr>
 <tr>
-<td><b>Radius of the Moon</b></td><td> 1079 miles</td></td>
-<b>Distance from Earch to Moon</b></td><td> 239,800 miles = 60.5 times the earth's radius</td></tr>
+<td><b>Radius of the Moon</b></td><td> 1079 miles</td><
+<td><b>Distance from Earch to Moon</b></td><td> 239,800 miles = 60.5 times the earth's radius</td></tr>
 </tr>
 </table>
 
@@ -42,10 +68,10 @@ the sun, and the moon would be 5.5 inches from the earth.
 <table>
 <tr>
 <td>
-<a href="/images/IMG_3311.jpg"><img src="/images/IMG_3311-2.jpg" height="360"></img></a>
+<a href="/images/IMG_3311.jpg"><img src="/images/IMG_3311-2.jpg" height="300"></img></a>
 </td>
 <td>
-<a href="/images/IMG_3317.jpg"><img src="/images/IMG_3317-2.jpg" height="360"></img></a>
+<a href="/images/IMG_3317.jpg"><img src="/images/IMG_3317-2.jpg" height="300"></img></a>
 </td>
 </tr>
 </table>
