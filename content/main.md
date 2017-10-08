@@ -2,6 +2,27 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 23 September: **Weight Puzzle**
+
+There are twelve balls, eleven are the same, but one has a different
+weight from the others. How can you find the ball with the different
+weight using the minimum number of scale weighings?
+
+<table>
+<tr>
+<td> 
+<A href="/images/IMG_3467.jpg"><img src="/images/IMG_3467-2.jpg" height="260">
+</td>
+<td>
+<A href="/images/IMG_3470.jpg"><img src="/images/IMG_3470-2.jpg" height="260">
+</td>
+<td>
+<A href="/images/IMG_3472.jpg"><img src="/images/IMG_3472-2.jpg" height="260">
+</td>
+</tr>
+</table>
+
+
 ### 9 September: **The Farmer, the Fox, the Goose, and the Grain**
 
 The farmer has a fox (who will eat the goose), goose (who will eat the
