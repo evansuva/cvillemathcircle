@@ -2,26 +2,46 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 7 October: **Electro-Dough**
+
+Add some salt (and lemon juice) to dough, and it conducts! Let's make
+some circuits.
+
+<center>
+<table>
+<tr>
+<td> 
+<A href="/images/IMG_3519.jpg"><img src="/images/IMG_3519-2.jpg" height="300">
+</td>
+<td>
+<A href="/images/IMG_3521.jpg"><img src="/images/IMG_3521-2.jpg" height="300">
+</td>
+</tr>
+</table>
+</center>
+
+
 ### 23 September: **Weight Puzzle**
 
 There are twelve balls, eleven are the same, but one has a different
 weight from the others. How can you find the ball with the different
 weight using the minimum number of scale weighings?
 
+<center>
 <table>
 <tr>
 <td> 
-<A href="/images/IMG_3467.jpg"><img src="/images/IMG_3467-2.jpg" height="260">
+<A href="/images/IMG_3467.jpg"><img src="/images/IMG_3467-2.jpg" height="230">
 </td>
 <td>
-<A href="/images/IMG_3470.jpg"><img src="/images/IMG_3470-2.jpg" height="260">
+<A href="/images/IMG_3470.jpg"><img src="/images/IMG_3470-2.jpg" height="230">
 </td>
 <td>
-<A href="/images/IMG_3472.jpg"><img src="/images/IMG_3472-2.jpg" height="260">
+<A href="/images/IMG_3472.jpg"><img src="/images/IMG_3472-2.jpg" height="230">
 </td>
 </tr>
 </table>
-
+</center>
 
 ### 9 September: **The Farmer, the Fox, the Goose, and the Grain**
 
@@ -30,6 +50,7 @@ grain), and grain to bring back from the market in a boat that can
 only carry one at a time. How can the farmer get everyone safely to
 shore?
 
+<center>
 <table>
 <tr>
 <td> 
@@ -48,7 +69,7 @@ shore?
 </td>
 </tr>
 </table>
-
+</center>
 
 ### 26 August 2017: **Eclipse**
 
@@ -62,12 +83,12 @@ The big purple ball represents the sun.
 
 <table>
 <tr>
-<td width="15%"><b>Radius of Sun</b></td><td width="25%"> 432288 miles</td>
-<td width="30%"><b>Distance from Sun to Earth</b></td><td width="30%"> 92,960,000 miles = 215 times the sun's radius</td>
+<td width="20%"><b>Radius of Sun</b></td><td width="15%"> 432288 miles</td>
+<td width="27%"><b>Distance from Sun to Earth</b></td><td width="38%"> 92,960,000 miles = 215 times the sun's radius</td>
 </tr>
 <tr>
 <td><b>Radius of the Earth</b></td><td> 3959 miles</td>
-<td><b>Earth radiiuses to Sun</b></td><td> 23,480</td></tr>
+<td><b>Earth radii to Sun</b></td><td> 23,480</td></tr>
 <tr>
 <td><b>Radius of the Moon</b></td><td> 1079 miles</td>
 <td><b>Distance from Earth to Moon</b></td><td> 239,800 miles = 60.5 times the earth's radius</td></tr>
