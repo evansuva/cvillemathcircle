@@ -93,7 +93,7 @@ The big purple ball represents the sun.
 <table>
 <tr>
 <td width="20%"><b>Radius of Sun</b></td><td width="15%"> 432288 miles</td>
-<td width="27%"><b>Distance from Sun to Earth</b></td><td width="38%"> 93 million miles = 215 sun radii</td>
+<td width="33%"><b>Distance from Sun to Earth</b></td><td width="32%"> 93 million miles = 215 sun radii</td>
 </tr>
 <tr>
 <td><b>Radius of the Earth</b></td><td> 3959 miles</td>
