@@ -11,7 +11,7 @@ black, white, block white.  Move the checkers so that all the white
 one will end on the left, followed by the black ones. The checkers
 must be moved in pairs, taking two adjacent at a time, without
 disturbing the order, and sliding them to a vacant place. Only three
-such moves are necessary.  (From "The Moscow Puzzles", by Boris A
+such moves are necessary.  (From _The Moscow Puzzles_, by Boris A
 Kordemsky)
 
 This was a pretty successful problem. The girls enjoyed moving the
@@ -21,7 +21,7 @@ stones around and find a solution.
 
 How many different triangles are there in the pentagram figure?
 
-(From "The Moscow Puzzles", by Boris A Kordemsky)
+(From _The Moscow Puzzles_, by Boris A Kordemsky)
 
 We were able to identify all the types of triangles, but we didn't
 find a successful strategy for counting all 35 triangles, despite
