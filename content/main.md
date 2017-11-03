@@ -4,7 +4,7 @@ title = "Charlottesville Math Circle"
 
 ### 3 November 2017: **Pentagram**
 
-<center><A href="/images/all35.jpg"><img src="/images/all35.jpg" width=600><br>
+<center><A href="/images/all35.jpg"><img src="/images/all35.jpg" width=600></a><br>
 With enough paper and colors we counted all 35 triangles!
 </center>
 
