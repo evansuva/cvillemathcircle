@@ -2,6 +2,64 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 28 October 2017: **Puzzling Pentagrams**
+
+1. Moving Checkers
+
+Place six checkers on a table in a row, alternating them black, white,
+black, white, block white.  Move the checkers so that all the white
+one will end on the left, followed by the black ones. The checkers
+must be moved in pairs, taking two adjacent at a time, without
+disturbing the order, and sliding them to a vacant place. Only three
+such moves are necessary.  (From "The Moscow Puzzles", by Boris A
+Kordemsky)
+
+This was a pretty successful problem. The girls enjoyed moving the
+stones around and find a solution.
+
+2. Count!
+
+How many different triangles are there in the pentagram figure?
+
+(From "The Moscow Puzzles", by Boris A Kordemsky)
+
+We were able to identify all the types of triangles, but we didn't
+find a successful strategy for counting all 35 triangles, despite
+several persistent efforts from the girls.
+
+### 21 October 2017: **Scrambled Box Tops**
+
+Some more variations on the puzzle from 13 October.
+
+### 13 October 2017: **Stick Puzzles**
+
+1. Use 12 sticks to form polygons with integral areas. The entire
+length of the stick must be used with no overlapping, but more than
+one stick may be used for an edge. Assuming the sticks have unit
+length, what how many area units does your polygon have?
+
+The solutions we had were: square with area 9 and rectangle with area
+8.  The challenge to get back to later: form a polygon of exactly four
+square units.  (From _My Best Mathematical and Logic Puzzels_ by
+Martin Gardner, Puzzle 14, "The 12 Matches".)
+
+2. Scrambled Box Tops 
+
+Imagine that you have three boxes, one containing two black marbles,
+one containing two white marbles, and the third, one black marble and
+one white marble. The boxes were labeled for their contents but
+someone has switched the labels so that every box in now incorrectly
+labeled. You are allowed to take one marble at a time out of any box,
+without looking inside, and by this process of sampling you are to
+determine the contents of all three boxes. What is the smallest number
+of drawing needed to do this?  (From _My Best Mathematical and Logic
+Puzzels_ by Martin Gardner, Puzzle 5, "Scrambled Box Tops".)
+
+This was a nice challenge, not too hard and kept all of us
+engaged. The temptation to pick in the box or get both marbles out was
+a bit too much. It worked best when three people were hiding the
+marbles one in each hand.
+
 ### 7 October 2017: **Electro-Dough**
 
 Add some salt (and lemon juice) to dough, and it conducts! Let's make
