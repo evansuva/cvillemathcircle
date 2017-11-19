@@ -2,6 +2,45 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 17 November 2017: **Relatively Prime**
+
+We've done number lines (and number chains), now its time for number rings!
+
+<center>
+<table>
+<tr>
+<td> 
+<a href="/images/IMG_3637.jpg"><img src="/images/IMG_3637-2.jpg" height=200>
+</td>
+<td>
+<a href="/images/IMG_3638.jpg"><img src="/images/IMG_3638-2.jpg" height=200>
+</td>
+</tr>
+<tr>
+<td colspan=2 align="center">
+
+<a href="/images/IMG_3641.jpg"><img src="/images/IMG_3641-2.jpg" width="500">
+</td>
+</tr>
+</center>
+
+If two numbers, <em>n</em> and <em>k</em> are relatively prime, we
+will touch every number in the modulo number ring for <em>n</em> going
+by multiples of <em>k</em>. Dorina picked 25 and 6, Anya picked 12 and
+5, Charlotte picked 12 and 3 (not relatively prime, so doesn't touch
+every number), and Madelyn picked a number too big to finish.
+
+<center>
+<a href="/images/IMG_3644.jpg">img src="/images/IMG_3644-2.jpg" width="700"></a>
+</center>
+
+(This is what we covered in <a href="https://uvacs2102.github.io/class23/">cs2102: Discrete Mathematics</a> the day before.)
+
+### 10 November 2017: **Perimeters and Areas**
+
+With 12 sticks, make a closed polygon with the largest area. With 12
+sticks, make a closed polygon with the smallest integral area.
+
 ### 3 November 2017: **Pentagram**
 
 <center><A href="/images/all35.jpg"><img src="/images/all35.jpg" width=600></a><br>
@@ -24,11 +63,19 @@ Kordemsky)
     This was a pretty successful problem. The girls enjoyed moving the
 stones around and find a solution.
 
+<center>
+<a href="/images/IMG_3614.jpg"><img src="/images/IMG_3614-2.jpg" width=500></a>
+</center>
+
 2. Count!
 
     How many different triangles are there in the pentagram figure? (From _The Moscow Puzzles_, by Boris A Kordemsky)
 
     We were able to identify all the types of triangles, but we didn't find a successful strategy for counting all 35 triangles, despite several persistent efforts from the girls.
+
+<center>
+<a href="/images/IMG_3616.jpg"><img src="/images/IMG_3616-2.jpg" width=500></a>
+</center>
 
 ### 21 October 2017: **Scrambled Box Tops**
 

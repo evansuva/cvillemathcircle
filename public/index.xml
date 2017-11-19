@@ -16,6 +16,45 @@
       <guid>http://cvillemathcircle.org/main/</guid>
       <description>
 
+&lt;h3 id=&#34;17-november-2017-relatively-prime&#34;&gt;17 November 2017: &lt;strong&gt;Relatively Prime&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;We&amp;rsquo;ve done number lines (and number chains), now its time for number rings!&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://cvillemathcircle.org/images/IMG_3637.jpg&#34;&gt;&lt;img src=&#34;http://cvillemathcircle.org/images/IMG_3637-2.jpg&#34; height=200&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://cvillemathcircle.org/images/IMG_3638.jpg&#34;&gt;&lt;img src=&#34;http://cvillemathcircle.org/images/IMG_3638-2.jpg&#34; height=200&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=2 align=&#34;center&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://cvillemathcircle.org/images/IMG_3641.jpg&#34;&gt;&lt;img src=&#34;http://cvillemathcircle.org/images/IMG_3641-2.jpg&#34; width=&#34;500&#34;&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;If two numbers, &lt;em&gt;n&lt;/em&gt; and &lt;em&gt;k&lt;/em&gt; are relatively prime, we
+will touch every number in the modulo number ring for &lt;em&gt;n&lt;/em&gt; going
+by multiples of &lt;em&gt;k&lt;/em&gt;. Dorina picked 25 and 6, Anya picked 12 and
+5, Charlotte picked 12 and 3 (not relatively prime, so doesn&amp;rsquo;t touch
+every number), and Madelyn picked a number too big to finish.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;a href=&#34;http://cvillemathcircle.org/images/IMG_3644.jpg&#34;&gt;img src=&amp;ldquo;/images/IMG_3644-2.jpg&amp;rdquo; width=&amp;ldquo;700&amp;rdquo;&amp;gt;&lt;/a&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;(This is what we covered in &lt;a href=&#34;https://uvacs2102.github.io/class23/&#34;&gt;cs2102: Discrete Mathematics&lt;/a&gt; the day before.)&lt;/p&gt;
+
+&lt;h3 id=&#34;10-november-2017-perimeters-and-areas&#34;&gt;10 November 2017: &lt;strong&gt;Perimeters and Areas&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;With 12 sticks, make a closed polygon with the largest area. With 12
+sticks, make a closed polygon with the smallest integral area.&lt;/p&gt;
+
 &lt;h3 id=&#34;3-november-2017-pentagram&#34;&gt;3 November 2017: &lt;strong&gt;Pentagram&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;&lt;center&gt;&lt;A href=&#34;http://cvillemathcircle.org/images/all35.jpg&#34;&gt;&lt;img src=&#34;http://cvillemathcircle.org/images/all35.jpg&#34; width=600&gt;&lt;/a&gt;&lt;br&gt;
@@ -37,13 +76,23 @@ Kordemsky)&lt;/p&gt;
 
 &lt;p&gt;This was a pretty successful problem. The girls enjoyed moving the
 stones around and find a solution.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
+&lt;p&gt;&lt;center&gt;
+&lt;a href=&#34;http://cvillemathcircle.org/images/IMG_3614.jpg&#34;&gt;&lt;img src=&#34;http://cvillemathcircle.org/images/IMG_3614-2.jpg&#34; width=500&gt;&lt;/a&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;Count!&lt;/p&gt;
 
 &lt;p&gt;How many different triangles are there in the pentagram figure? (From &lt;em&gt;The Moscow Puzzles&lt;/em&gt;, by Boris A Kordemsky)&lt;/p&gt;
 
 &lt;p&gt;We were able to identify all the types of triangles, but we didn&amp;rsquo;t find a successful strategy for counting all 35 triangles, despite several persistent efforts from the girls.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;a href=&#34;http://cvillemathcircle.org/images/IMG_3616.jpg&#34;&gt;&lt;img src=&#34;http://cvillemathcircle.org/images/IMG_3616-2.jpg&#34; width=500&gt;&lt;/a&gt;
+&lt;/center&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;21-october-2017-scrambled-box-tops&#34;&gt;21 October 2017: &lt;strong&gt;Scrambled Box Tops&lt;/strong&gt;&lt;/h3&gt;
 
