@@ -4,7 +4,7 @@ title = "Charlottesville Math Circle"
 
 ### 17 November 2017: **Relatively Prime**
 
-We've done number lines (and number chains), now its time for number rings!
+Everyone knows number lines (and number chains), but now its time for number rings!
 
 <center>
 <table>
@@ -22,6 +22,7 @@ We've done number lines (and number chains), now its time for number rings!
 <a href="/images/IMG_3641.jpg"><img src="/images/IMG_3641-2.jpg" width="500">
 </td>
 </tr>
+</table>
 </center>
 
 If two numbers, <em>n</em> and <em>k</em> are relatively prime, we
