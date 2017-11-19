@@ -10,16 +10,16 @@ Everyone knows number lines (and number chains), but now its time for number rin
 <table>
 <tr>
 <td> 
-<a href="/images/IMG_3637.jpg"><img src="/images/IMG_3637-2.jpg" height=200>
+<a href="/images/IMG_3637.jpg"><img src="/images/IMG_3637-2.jpg" height=300>
 </td>
 <td>
-<a href="/images/IMG_3638.jpg"><img src="/images/IMG_3638-2.jpg" height=200>
+<a href="/images/IMG_3638.jpg"><img src="/images/IMG_3638-2.jpg" height=300>
 </td>
 </tr>
 <tr>
 <td colspan=2 align="center">
 
-<a href="/images/IMG_3641.jpg"><img src="/images/IMG_3641-2.jpg" width="600">
+<a href="/images/IMG_3641.jpg"><img src="/images/IMG_3641-2.jpg" width="500">
 </td>
 </tr>
 </table>
@@ -32,7 +32,7 @@ by multiples of <em>k</em>. Dorina picked 25 and 6, Anya picked 12 and
 every number), and Madelyn picked a number too big to finish.
 
 <center>
-<a href="/images/IMG_3644.jpg">img src="/images/IMG_3644-2.jpg" width="650"></a>
+<a href="/images/IMG_3644.jpg"><img src="/images/IMG_3644-2.jpg" width="650"></a>
 </center>
 
 (This is what we covered in <a href="https://uvacs2102.github.io/class23/">cs2102: Discrete Mathematics</a> the day before.)
