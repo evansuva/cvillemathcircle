@@ -19,7 +19,7 @@ Everyone knows number lines (and number chains), but now its time for number rin
 <tr>
 <td colspan=2 align="center">
 
-<a href="/images/IMG_3641.jpg"><img src="/images/IMG_3641-2.jpg" width="500">
+<a href="/images/IMG_3641.jpg"><img src="/images/IMG_3641-2.jpg" width="600">
 </td>
 </tr>
 </table>
@@ -32,7 +32,7 @@ by multiples of <em>k</em>. Dorina picked 25 and 6, Anya picked 12 and
 every number), and Madelyn picked a number too big to finish.
 
 <center>
-<a href="/images/IMG_3644.jpg">img src="/images/IMG_3644-2.jpg" width="700"></a>
+<a href="/images/IMG_3644.jpg">img src="/images/IMG_3644-2.jpg" width="650"></a>
 </center>
 
 (This is what we covered in <a href="https://uvacs2102.github.io/class23/">cs2102: Discrete Mathematics</a> the day before.)
@@ -44,7 +44,7 @@ sticks, make a closed polygon with the smallest integral area.
 
 ### 3 November 2017: **Pentagram**
 
-<center><A href="/images/all35.jpg"><img src="/images/all35.jpg" width=600></a><br>
+<center><A href="/images/all35.jpg"><img src="/images/all35.jpg" width=650></a><br>
 With enough paper and colors we counted all 35 triangles!
 </center>
 
@@ -65,7 +65,7 @@ Kordemsky)
 stones around and find a solution.
 
 <center>
-<a href="/images/IMG_3614.jpg"><img src="/images/IMG_3614-2.jpg" width=500></a>
+<a href="/images/IMG_3614.jpg"><img src="/images/IMG_3614-2.jpg" width=650></a>
 </center>
 
 2. Count!
@@ -75,7 +75,7 @@ stones around and find a solution.
     We were able to identify all the types of triangles, but we didn't find a successful strategy for counting all 35 triangles, despite several persistent efforts from the girls.
 
 <center>
-<a href="/images/IMG_3616.jpg"><img src="/images/IMG_3616-2.jpg" width=500></a>
+<a href="/images/IMG_3616.jpg"><img src="/images/IMG_3616-2.jpg" width=650></a>
 </center>
 
 ### 21 October 2017: **Scrambled Box Tops**
