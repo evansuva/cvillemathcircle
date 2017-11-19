@@ -51,7 +51,7 @@ With enough paper and colors we counted all 35 triangles!
 
 ### 28 October 2017: **Puzzling Pentagrams**
 
-1. Moving Checkers
+#### Moving Checkers
 
     Place six checkers on a table in a row, alternating them black, white,
 black, white, block white.  Move the checkers so that all the white
@@ -68,7 +68,7 @@ stones around and find a solution.
 <a href="/images/IMG_3614.jpg"><img src="/images/IMG_3614-2.jpg" width=650></a>
 </center>
 
-2. Count!
+#### Count!
 
     How many different triangles are there in the pentagram figure? (From _The Moscow Puzzles_, by Boris A Kordemsky)
 
