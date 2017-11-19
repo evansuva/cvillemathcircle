@@ -53,7 +53,7 @@ With enough paper and colors we counted all 35 triangles!
 
 #### Moving Checkers
 
-    Place six checkers on a table in a row, alternating them black, white,
+Place six checkers on a table in a row, alternating them black, white,
 black, white, block white.  Move the checkers so that all the white
 one will end on the left, followed by the black ones. The checkers
 must be moved in pairs, taking two adjacent at a time, without
@@ -61,7 +61,7 @@ disturbing the order, and sliding them to a vacant place. Only three
 such moves are necessary.  (From _The Moscow Puzzles_, by Boris A
 Kordemsky)
 
-    This was a pretty successful problem. The girls enjoyed moving the
+This was a pretty successful problem. The girls enjoyed moving the
 stones around and find a solution.
 
 <center>
@@ -70,9 +70,9 @@ stones around and find a solution.
 
 #### Count!
 
-    How many different triangles are there in the pentagram figure? (From _The Moscow Puzzles_, by Boris A Kordemsky)
+How many different triangles are there in the pentagram figure? (From _The Moscow Puzzles_, by Boris A Kordemsky)
 
-    We were able to identify all the types of triangles, but we didn't find a successful strategy for counting all 35 triangles, despite several persistent efforts from the girls.
+We were able to identify all the types of triangles, but we didn't find a successful strategy for counting all 35 triangles, despite several persistent efforts from the girls.
 
 <center>
 <a href="/images/IMG_3616.jpg"><img src="/images/IMG_3616-2.jpg" width=650></a>
