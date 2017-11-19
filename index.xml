@@ -66,20 +66,16 @@ With enough paper and colors we counted all 35 triangles!
 
 &lt;h4 id=&#34;moving-checkers&#34;&gt;Moving Checkers&lt;/h4&gt;
 
-&lt;pre&gt;&lt;code&gt;Place six checkers on a table in a row, alternating them black, white,
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;black, white, block white.  Move the checkers so that all the white
+&lt;p&gt;Place six checkers on a table in a row, alternating them black, white,
+black, white, block white.  Move the checkers so that all the white
 one will end on the left, followed by the black ones. The checkers
 must be moved in pairs, taking two adjacent at a time, without
 disturbing the order, and sliding them to a vacant place. Only three
 such moves are necessary.  (From &lt;em&gt;The Moscow Puzzles&lt;/em&gt;, by Boris A
 Kordemsky)&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;This was a pretty successful problem. The girls enjoyed moving the
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;stones around and find a solution.&lt;/p&gt;
+&lt;p&gt;This was a pretty successful problem. The girls enjoyed moving the
+stones around and find a solution.&lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;
 &lt;a href=&#34;http://cvillemathcircle.org/images/IMG_3614.jpg&#34;&gt;&lt;img src=&#34;http://cvillemathcircle.org/images/IMG_3614-2.jpg&#34; width=650&gt;&lt;/a&gt;
@@ -87,10 +83,9 @@ Kordemsky)&lt;/p&gt;
 
 &lt;h4 id=&#34;count&#34;&gt;Count!&lt;/h4&gt;
 
-&lt;pre&gt;&lt;code&gt;How many different triangles are there in the pentagram figure? (From _The Moscow Puzzles_, by Boris A Kordemsky)
+&lt;p&gt;How many different triangles are there in the pentagram figure? (From &lt;em&gt;The Moscow Puzzles&lt;/em&gt;, by Boris A Kordemsky)&lt;/p&gt;
 
-We were able to identify all the types of triangles, but we didn&#39;t find a successful strategy for counting all 35 triangles, despite several persistent efforts from the girls.
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;We were able to identify all the types of triangles, but we didn&amp;rsquo;t find a successful strategy for counting all 35 triangles, despite several persistent efforts from the girls.&lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;
 &lt;a href=&#34;http://cvillemathcircle.org/images/IMG_3616.jpg&#34;&gt;&lt;img src=&#34;http://cvillemathcircle.org/images/IMG_3616-2.jpg&#34; width=650&gt;&lt;/a&gt;
