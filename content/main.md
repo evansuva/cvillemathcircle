@@ -18,7 +18,7 @@ only move from one pile to another exactly as many stones are at the
 destination. In three moves, obtain three piles of 8 stones. (From
 _The Moscow Puzzles_, by Boris A Kordemsky)
 
-First Dorina and Anya had a solution in four moves that starts with
+    First Dorina and Anya had a solution in four moves that starts with
 moving from the 11 stone pile to the 6 stone pile: (11,7,6),
 (5,7,12),(10,2,12),(8,4,12),(8,8,8). After a few tries, they figured
 out the three moves solution: (11,7,6), (4,14,6), (4,8,12), (8,8,8).
