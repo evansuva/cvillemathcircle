@@ -2,6 +2,40 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 1 December 2017: **Out with the Onion**
+
+From Martin Gardner's _My Best Mathematical and Logic Puzzles_ (55): Move
+two matches, to remake a class, but with the cherry outside.
+
+**Dissection Dilemma** (57): divide a square into _five_ parts, all
+  identical in size and shape.
+
+
+### 24 November 2017: **Apples and Sticks**
+
+1. Given three piles of 11, 7, and 6 stones, respectively. You can
+only move from one pile to another exactly as many stones are at the
+destination. In three moves, obtain three piles of 8 stones. (From
+_The Moscow Puzzles_, by Boris A Kordemsky)
+
+First Dorina and Anya had a solution in four moves that starts with
+moving from the 11 stone pile to the 6 stone pile: (11,7,6),
+(5,7,12),(10,2,12),(8,4,12),(8,8,8). After a few tries, they figured
+out the three moves solution: (11,7,6), (4,14,6), (4,8,12), (8,8,8).
+
+2. Five apples are in a basket. How do you divide them among five
+girls so that each girl gets and apple, but one apple remains in the
+basket. (From _The Moscow Puzzles_, by Boris A Kordemsky) This was
+quite confusing, until David brought a prop. Then it seemed silly.
+
+3. Take 4 sticks of equal length and 4 more of equal length twice the
+first length. Use all 8 to make 3 squares of equal size. It’s
+acceptable to cross two long sticks.  This was a pretty hard one. It
+took a while, but we finally did it.
+
+<Center><img src="/images/sticks.jpg" width="500">
+</center>
+
 ### 17 November 2017: **Relatively Prime**
 
 Everyone knows number lines (and number chains), but now its time for number rings!
