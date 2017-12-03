@@ -33,7 +33,7 @@ first length. Use all 8 to make 3 squares of equal size. It’s
 acceptable to cross two long sticks.  This was a pretty hard one. It
 took a while, but we finally did it.
 
-<Center><img src="/images/sticks.jpg" width="500">
+<Center><img src="/images/sticks.jpeg" width="500">
 </center>
 
 ### 17 November 2017: **Relatively Prime**
