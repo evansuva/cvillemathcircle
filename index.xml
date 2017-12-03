@@ -27,18 +27,16 @@ two matches, to remake a class, but with the cherry outside.&lt;/p&gt;
 &lt;h3 id=&#34;24-november-2017-apples-and-sticks&#34;&gt;24 November 2017: &lt;strong&gt;Apples and Sticks&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Given three piles of 11, 7, and 6 stones, respectively. You can
+&lt;li&gt;&lt;p&gt;Given three piles of 11, 7, and 6 stones, respectively. You can
 only move from one pile to another exactly as many stones are at the
 destination. In three moves, obtain three piles of 8 stones. (From
-&lt;em&gt;The Moscow Puzzles&lt;/em&gt;, by Boris A Kordemsky)&lt;/li&gt;
-&lt;/ol&gt;
+&lt;em&gt;The Moscow Puzzles&lt;/em&gt;, by Boris A Kordemsky)&lt;/p&gt;
 
 &lt;p&gt;First Dorina and Anya had a solution in four moves that starts with
 moving from the 11 stone pile to the 6 stone pile: (11,7,6),
 (5,7,12),(10,2,12),(8,4,12),(8,8,8). After a few tries, they figured
-out the three moves solution: (11,7,6), (4,14,6), (4,8,12), (8,8,8).&lt;/p&gt;
+out the three moves solution: (11,7,6), (4,14,6), (4,8,12), (8,8,8).&lt;/p&gt;&lt;/li&gt;
 
-&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;Five apples are in a basket. How do you divide them among five
 girls so that each girl gets and apple, but one apple remains in the
 basket. (From &lt;em&gt;The Moscow Puzzles&lt;/em&gt;, by Boris A Kordemsky) This was
