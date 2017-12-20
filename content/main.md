@@ -2,6 +2,37 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 8 December 2017: **Making Octahedrons with Stawbees**
+
+<table>
+<tr>
+<td valign="middle">
+<img src="/images/IMG_3633.jpg" height=300>
+</td>
+<td valign="middle">
+<img src="/images/IMG_3635.jpg" height=300>
+</td>
+</tr>
+
+<tr>
+<td valign="middle">
+<img src="/images/IMG_3637.jpg" height=300>
+</td>
+<td valign="middle">
+<img src="/images/IMG_3639.jpg" height=300>
+</td>
+</tr>
+
+<tr>
+<td valign="middle">
+<img src="/images/IMG_3641.jpg" height=300>
+</td>
+<td valign="middle">
+<img src="/images/IMG_3644.jpg" height=300>
+</td>
+</tr>
+</table>
+
 ### 1 December 2017: **Out with the Onion**
 
 From Martin Gardner's _My Best Mathematical and Logic Puzzles_ (55): Move
