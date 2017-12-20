@@ -4,25 +4,18 @@ title = "Charlottesville Math Circle"
 
 ### 8 December 2017: **Making Octahedrons with Stawbees**
 
+<center>
 <table>
 <tr>
 <td valign="middle">
-<img src="/images/IMG_3733.jpg" height=300>
-</td>
-<td valign="middle">
 <img src="/images/IMG_3735.jpg" height=300>
 </td>
-</tr>
-
-<tr>
 <td valign="middle">
 <img src="/images/IMG_3737.jpg" height=300>
 </td>
-<td valign="middle">
-<img src="/images/IMG_3739.jpg" height=300>
-</td>
 </tr>
-
+</table>
+<table>
 <tr>
 <td valign="middle">
 <img src="/images/IMG_3741.jpg" height=300>
@@ -32,6 +25,7 @@ title = "Charlottesville Math Circle"
 </td>
 </tr>
 </table>
+</center>
 
 ### 1 December 2017: **Out with the Onion**
 
