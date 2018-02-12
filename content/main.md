@@ -2,6 +2,47 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 9 February 2018: **Magic Squares**
+
+<center>
+<a href="/images/IMG_20180210_081557-2.jpg"><img src="/images/IMG_20180210_081557.jpg" height=400></a><br>
+<a href="/docs/magicsquares.pptx">Magic Squares (PPTX)</a>
+</center>
+
+### 2 February 2018: **Magic Squares**
+
+Two puzzles translated from "Culegere de Exercitii si Probleme pentru Concursul Gazeta Matematica Junior" clasa a II-a (Romanian Mathematics Junior Olympiad Problems)
+
+1. Split the following numbers into two groups of equal sums: 2, 4, 5, 6, 8, 9.
+
+2. Vladut wrote a sequence of numbers in increasing order, starting with the number 55. What is the twentieth digit written by Vladut?
+
+### 26 January 2018: Flying Circuits!
+
+<center>
+<table>
+<tr>
+<td valign="middle">
+<img src="/images/IMG_20180126_162540.jpg" height=300>
+</td>
+<td valign="middle">
+<img src="/images/IMG_20180126_173532.jpg" height=300>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td valign="middle">
+<img src="/images/IMG_20180126_173541.jpg" height=300>
+</td>
+<td valign="middle">
+<img src="/images/IMG_20180126_173654.jpg" height=300>
+</td>
+</tr>
+</table>
+</center>
+
+
 ### 8 December 2017: **Making Octahedrons with Stawbees**
 
 <center>
