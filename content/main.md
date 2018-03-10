@@ -2,6 +2,55 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 9 March 2019: **Boolean Island**
+
+We did some puzzles based on the Knights and Knaves from Raymond Smullyan's [_What is the Name of this Book?_](https://www.amazon.com/What-Name-This-Book-Recreational/dp/0486481980/): [[PDF](/docs/knightknaves.pdf)]
+
+The last puzzle was to make up your own puzzle about the Boolies.
+
+### 2 March 2019: **Water Rainbows**
+
+We can make colored water with different densities by mixing in
+different amounts of sugar. Then, we can make a separated rainbow of
+different colored water in a straw!
+
+<center>
+<table>
+<tr>
+<td valign="middle">
+<img src="/images/IMG_20180302_165851.jpg" height=300>
+</td>
+<td valign="middle">
+<img src="/images/IMG_20180302_165918.jpg" height=300>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td valign="middle">
+<img src="/images/IMG_20180302_165921.jpg" height=300>
+</td>
+<td valign="middle">
+<img src="/images/IMG_20180302_170017.jpg" height=300>
+</td>
+</tr>
+</table>
+</center>
+
+### 23 February 2018: **Tree Adding**
+
+<center>
+<table>
+<tr>
+<td>
+<a href="/images/IMG_20180224_101810-2.jpg"><img src="/images/IMG_20180224_101810.jpg" height=400></a>
+</td>
+<td>
+<a href="/images/IMG_20180224_101821-2.jpg"><img src="/images/IMG_20180224_101821.jpg" height=400></a></td>
+</tr>
+<table>
+</center>
+
 ### 9 February 2018: **Magic Squares**
 
 <center>
