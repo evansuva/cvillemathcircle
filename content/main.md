@@ -2,13 +2,29 @@
 title = "Charlottesville Math Circle"
 +++
 
-### 9 March 2019: **Boolean Island**
+### 28 April 2018: **Puzzling Pennies**
+
+_(From the Math Olympiad Contest Problems, Volume 1)_ From a pile of 100 pennies, 100 nickels, and 100 dimes, select 21 coins that have a total value of exactly $1.00. In your selection you must also use at least one coin of each type. How many couns of each of the three types should be selected?
+
+### 21 April 2018: **Coin Puzzle**
+
+_(From the Math Olympiad Contest Problems, Volume 1)_ I have 30 coins consisting of nickels and quarters. The total value of the coins is $4.10. How many of each kind do I have?
+
+##
+
+The tower below is made up of five horizontal layers of cubes with no gaps. How many individual cubes are in the tower?
+<center>
+<img src="/images/tower.png" width=400>
+</center>
+
+
+### 9 March 2018: **Boolean Island**
 
 We did some puzzles based on the Knights and Knaves from Raymond Smullyan's [_What is the Name of this Book?_](https://www.amazon.com/What-Name-This-Book-Recreational/dp/0486481980/): [[PDF](/docs/knightknaves.pdf)]
 
 The last puzzle was to make up your own puzzle about the Boolies.
 
-### 2 March 2019: **Water Rainbows**
+### 2 March 2018: **Water Rainbows**
 
 We can make colored water with different densities by mixing in
 different amounts of sugar. Then, we can make a separated rainbow of
