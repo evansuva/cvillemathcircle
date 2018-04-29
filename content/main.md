@@ -17,6 +17,13 @@ The tower below is made up of five horizontal layers of cubes with no gaps. How 
 <img src="/images/tower.png" width=400>
 </center>
 
+### 23 March 2018: **Fusing Dots**
+
+Fusing Dots machine (from the Berkeley Math Circle): [<a href="/docs/fusingdots.pdf">PDF</a>]
+
+### 16 March 2018: **Smullyan's Criminals**
+
+Smullyan's Criminals problems from the Berkeley Math Circle: [<a href="/docs/smullyan2.pdf">PDF</a>]
 
 ### 9 March 2018: **Boolean Island**
 
