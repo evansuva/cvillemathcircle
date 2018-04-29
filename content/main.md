@@ -10,8 +10,6 @@ _(From the Math Olympiad Contest Problems, Volume 1)_ From a pile of 100 pennies
 
 _(From the Math Olympiad Contest Problems, Volume 1)_ I have 30 coins consisting of nickels and quarters. The total value of the coins is $4.10. How many of each kind do I have?
 
-##
-
 The tower below is made up of five horizontal layers of cubes with no gaps. How many individual cubes are in the tower?
 <center>
 <img src="/images/tower.png" width=400>
