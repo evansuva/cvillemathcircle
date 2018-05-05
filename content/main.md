@@ -30,20 +30,20 @@ We did bubblesort (which took a lot of persistence by finished
 successfully!) and quicksort.
 
 <center>
-<table>
+<table cellpadding=2 cellspacing=5>
 <tr>
 <td valign="middle">
 <img src="/images/IMG_20180407_165954.jpg" height=300>
 </td>
 <td valign="middle">
-<img src="/images/IMG_20180407_171737.jpg" height=300>
+<img src="/images/IMG_20180407_172633.jpg" height=300>
 </td>
 <td valign="middle">
-<img src="/images/IMG_20180407_172633.jpg" height=300>
+<img src="/images/IMG_20180407_171737.jpg" height=300>
 </td>
 </tr>
 </table>
-
+</center>
 
 ### 23 March 2018: **Fusing Dots**
 
