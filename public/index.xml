@@ -20,7 +20,7 @@
 
 &lt;p&gt;We can tell if a number is divisible by 3 by summing its digits and seeing if the result is divisible by 3!
 &lt;center&gt;
-&lt;a href=&#34;http://cvillemathcircle.org/images/IMG_20180407_165954-2.jpg&#34;&gt;&lt;img src=&#34;http://cvillemathcircle.org/images/IMG_20180504_171526.jpg&#34; width=600&gt;&lt;/a&gt;
+&lt;a href=&#34;http://cvillemathcircle.org/images/IMG_20180504_171526-2.jpg&#34;&gt;&lt;img src=&#34;http://cvillemathcircle.org/images/IMG_20180504_171526.jpg&#34; width=600&gt;&lt;/a&gt;
 &lt;/center&gt;&lt;/p&gt;
 
 &lt;p&gt;The works because 10 = (3 * 3) + 1. So, each multiple of 10 that is added, is adding 1 modulo 3.&lt;/p&gt;

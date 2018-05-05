@@ -6,7 +6,7 @@ title = "Charlottesville Math Circle"
 
 We can tell if a number is divisible by 3 by summing its digits and seeing if the result is divisible by 3! 
 <center>
-<a href="/images/IMG_20180407_165954-2.jpg"><img src="/images/IMG_20180504_171526.jpg" width=600></a>
+<a href="/images/IMG_20180504_171526-2.jpg"><img src="/images/IMG_20180504_171526.jpg" width=600></a>
 </center>
 
 The works because 10 = (3 * 3) + 1. So, each multiple of 10 that is added, is adding 1 modulo 3.
