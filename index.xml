@@ -44,19 +44,20 @@
 successfully!) and quicksort.&lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;
-&lt;table&gt;
+&lt;table cellpadding=2 cellspacing=5&gt;
 &lt;tr&gt;
 &lt;td valign=&#34;middle&#34;&gt;
 &lt;img src=&#34;http://cvillemathcircle.org/images/IMG_20180407_165954.jpg&#34; height=300&gt;
 &lt;/td&gt;
 &lt;td valign=&#34;middle&#34;&gt;
-&lt;img src=&#34;http://cvillemathcircle.org/images/IMG_20180407_171737.jpg&#34; height=300&gt;
-&lt;/td&gt;
-&lt;td valign=&#34;middle&#34;&gt;
 &lt;img src=&#34;http://cvillemathcircle.org/images/IMG_20180407_172633.jpg&#34; height=300&gt;
 &lt;/td&gt;
+&lt;td valign=&#34;middle&#34;&gt;
+&lt;img src=&#34;http://cvillemathcircle.org/images/IMG_20180407_171737.jpg&#34; height=300&gt;
+&lt;/td&gt;
 &lt;/tr&gt;
-&lt;/table&gt;&lt;/p&gt;
+&lt;/table&gt;
+&lt;/center&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;23-march-2018-fusing-dots&#34;&gt;23 March 2018: &lt;strong&gt;Fusing Dots&lt;/strong&gt;&lt;/h3&gt;
 
