@@ -16,6 +16,15 @@
       <guid>http://cvillemathcircle.org/main/</guid>
       <description>
 
+&lt;h3 id=&#34;4-may-2018-divisibility&#34;&gt;4 May 2018: &lt;strong&gt;Divisibility&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;We can tell if a number is divisible by 3 by summing its digits and seeing if the result is divisible by 3!
+&lt;center&gt;
+&lt;img src=&#34;http://cvillemathcircle.org/images/IMG_20180504_171526.jpg&#34; width=600&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;The works because 10 = (3 * 3) + 1. So, each multiple of 10 that is added, is adding 1 modulo 3.&lt;/p&gt;
+
 &lt;h3 id=&#34;28-april-2018-puzzling-pennies&#34;&gt;28 April 2018: &lt;strong&gt;Puzzling Pennies&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;&lt;em&gt;(From the Math Olympiad Contest Problems, Volume 1)&lt;/em&gt; From a pile of 100 pennies, 100 nickels, and 100 dimes, select 21 coins that have a total value of exactly $1.00. In your selection you must also use at least one coin of each type. How many couns of each of the three types should be selected?&lt;/p&gt;
@@ -28,6 +37,26 @@
 &lt;center&gt;
 &lt;img src=&#34;http://cvillemathcircle.org/images/tower.png&#34; width=400&gt;
 &lt;/center&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;7-april-2018-sorting-algorithms&#34;&gt;7 April 2018: &lt;strong&gt;Sorting Algorithms&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;We did bubblesort (which took a lot of persistence by finished
+successfully!) and quicksort.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td valign=&#34;middle&#34;&gt;
+&lt;img src=&#34;http://cvillemathcircle.org/images/IMG_20180407_165954.jpg&#34; height=300&gt;
+&lt;/td&gt;
+&lt;td valign=&#34;middle&#34;&gt;
+&lt;img src=&#34;http://cvillemathcircle.org/images/IMG_20180407_171737.jpg&#34; height=300&gt;
+&lt;/td&gt;
+&lt;td valign=&#34;middle&#34;&gt;
+&lt;img src=&#34;http://cvillemathcircle.org/images/IMG_20180407_172633.jpg&#34; height=300&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;23-march-2018-fusing-dots&#34;&gt;23 March 2018: &lt;strong&gt;Fusing Dots&lt;/strong&gt;&lt;/h3&gt;
 
