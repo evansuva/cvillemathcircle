@@ -2,6 +2,15 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 4 May 2018: **Divisibility**
+
+We can tell if a number is divisible by 3 by summing its digits and seeing if the result is divisible by 3! 
+<center>
+<img src="/images/IMG_20180504_171526.jpg" width=600>
+</center>
+
+The works because 10 = (3 * 3) + 1. So, each multiple of 10 that is added, is adding 1 modulo 3.
+
 ### 28 April 2018: **Puzzling Pennies**
 
 _(From the Math Olympiad Contest Problems, Volume 1)_ From a pile of 100 pennies, 100 nickels, and 100 dimes, select 21 coins that have a total value of exactly $1.00. In your selection you must also use at least one coin of each type. How many couns of each of the three types should be selected?
@@ -14,6 +23,27 @@ The tower below is made up of five horizontal layers of cubes with no gaps. How 
 <center>
 <img src="/images/tower.png" width=400>
 </center>
+
+### 7 April 2018: **Sorting Algorithms**
+
+We did bubblesort (which took a lot of persistence by finished
+successfully!) and quicksort.
+
+<center>
+<table>
+<tr>
+<td valign="middle">
+<img src="/images/IMG_20180407_165954.jpg" height=300>
+</td>
+<td valign="middle">
+<img src="/images/IMG_20180407_171737.jpg" height=300>
+</td>
+<td valign="middle">
+<img src="/images/IMG_20180407_172633.jpg" height=300>
+</td>
+</tr>
+</table>
+
 
 ### 23 March 2018: **Fusing Dots**
 
