@@ -2,7 +2,7 @@
 title = "Charlottesville Math Circle"
 +++
 
-### May 18: **Sharing Marbles**
+### 18 May 2018: **Sharing Marbles**
 
 _(From the Math Olympiad Contest Problems, Volume 1)_
 
