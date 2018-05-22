@@ -2,6 +2,16 @@
 title = "Charlottesville Math Circle"
 +++
 
+### May 18: **Sharing Marbles**
+
+_(From the Math Olympiad Contest Problems, Volume 1)_
+
+A set of marbles can be divided in equal shares among 2, 3, 4, 5, or 6 children with no marbles left over. What is the least number of marbles the set could have?
+
+We also tried the same problem with numbers 3, 5, 7.
+
+Since our crowd does not know multiplication yet, but knows skip count and divisibility criteria, we found two ways to solve the problem. The number we're looking for is the first common one in the number chains of the 4, 5, 6. The other way is to write down the number chain for 7 and use the divisibility criteria for 3 and 5 that we already know to find the number.
+
 ### 4 May 2018: **Divisibility**
 
 We can tell if a number is divisible by 3 by summing its digits and seeing if the result is divisible by 3! 
