@@ -4,7 +4,7 @@ title = "Charlottesville Math Circle"
 
 ### 25 May 2018: **Geomery from Axioms**
 
-[Introduction to Euclidean Geometry Definitions and Axioms](PDF) (PDF)
+[<a href="/docs/01_Intro.pdf">Introduction to Euclidean Geometry Definitions and Axioms</a>] (PDF)
 
 ### 18 May 2018: **Sharing Marbles**
 
@@ -63,7 +63,7 @@ successfully!) and quicksort.
 
 ### 23 March 2018: **Fusing Dots**
 
-Fusing Dots machine (from the Berkeley Math Circle): [<a href="/docs/fusingdots.pdf">PDF</a>]
+Fusing Dots machine (from the Berkeley Math Circle): [<a href="/docs/fusingdots.pdf1">PDF</a>]
 
 ### 16 March 2018: **Smullyan's Criminals**
 
