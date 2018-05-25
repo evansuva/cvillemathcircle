@@ -4,7 +4,7 @@ title = "Charlottesville Math Circle"
 
 ### 25 May 2018: **Geomery from Axioms**
 
-[<a href="/docs/01_Intro.pdf">Introduction to Euclidean Geometry Definitions and Axioms</a>] (PDF)
+[<a href="/docs/01_Intro.pdf">Introduction to Euclidean Geometry Definitions and Axioms</a> (PDF)] 
 
 ### 18 May 2018: **Sharing Marbles**
 
