@@ -2,6 +2,10 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 25 May 2018: **Geomery from Axioms**
+
+[Introduction to Euclidean Geometry Definitions and Axioms](PDF) (PDF)
+
 ### 18 May 2018: **Sharing Marbles**
 
 _(From the Math Olympiad Contest Problems, Volume 1)_
