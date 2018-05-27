@@ -40,6 +40,12 @@ The tower below is made up of five horizontal layers of cubes with no gaps. How 
 <img src="/images/tower.png" width=400>
 </center>
 
+### 15 April 2018: **Radix Sorting**
+
+We split numbers 1 &ndash; 100 in buckets by the first digit and the
+used various sorting algorithms, such as quicksort, insert and merge
+sort to sort each bucket.
+
 ### 7 April 2018: **Sorting Algorithms**
 
 We did bubblesort (which took a lot of persistence by finished

@@ -54,6 +54,12 @@
 &lt;img src=&#34;http://cvillemathcircle.org/images/tower.png&#34; width=400&gt;
 &lt;/center&gt;&lt;/p&gt;
 
+&lt;h3 id=&#34;15-april-2018-radix-sorting&#34;&gt;15 April 2018: &lt;strong&gt;Radix Sorting&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;We split numbers 1 &amp;ndash; 100 in buckets by the first digit and the
+used various sorting algorithms, such as quicksort, insert and merge
+sort to sort each bucket.&lt;/p&gt;
+
 &lt;h3 id=&#34;7-april-2018-sorting-algorithms&#34;&gt;7 April 2018: &lt;strong&gt;Sorting Algorithms&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;We did bubblesort (which took a lot of persistence by finished
