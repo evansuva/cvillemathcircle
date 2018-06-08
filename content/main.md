@@ -4,11 +4,11 @@ title = "Charlottesville Math Circle"
 
 ### 7 June 2018: **Problems about Points and Lines**
 
-[<a href="/docs/03_Problems.pdf">PDF]
+<a href="/docs/03_Problems.pdf">Geometry Axiom Problems</a> (PDF)
 
 ### 25 May 2018: **Geomery from Axioms**
 
-[<a href="/docs/01_Intro.pdf">Introduction to Euclidean Geometry Definitions and Axioms</a> (PDF)] 
+<a href="/docs/01_Intro.pdf">Introduction to Euclidean Geometry Definitions and Axioms</a> (PDF)
 
 <center><a href="/images/IMG_20180531_163933.jpg"><img src="/images/IMG_20180531_163933-2.jpg" width=400></a></center>
 
