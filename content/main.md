@@ -2,11 +2,21 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 22 June 2018: **Geometry**
+
+Finished the geometry problems (<a href="/docs/03_Problems.pdf">Geometry Axiom Problems</a> (PDF)).
+
+### 14 June 2018: **Straightedge and Compass**
+
+We practiced using the ruler and compass on creative drawing. We used
+the ruler and compass to draw a perpendicular on a given line and to
+draw a square.
+
 ### 7 June 2018: **Problems about Points and Lines**
 
 <a href="/docs/03_Problems.pdf">Geometry Axiom Problems</a> (PDF)
 
-### 25 May 2018: **Geomery from Axioms**
+### 25 May 2018: **Geometry from Axioms**
 
 <a href="/docs/01_Intro.pdf">Introduction to Euclidean Geometry Definitions and Axioms</a> (PDF)
 
