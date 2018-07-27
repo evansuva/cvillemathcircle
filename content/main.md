@@ -2,6 +2,30 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 26 July 2018: **Cubetto Challenges**
+
+Some challenges with the [Cubetto Toy Robot](https://www.primotoys.com/):
+
+1. What does this block do?
+
+   - Easy for most, but interesting for the "Cream" blocks (which make the subsequent behavioral block have the opposite behavior, but can be used with multiple cream blocks, etc.), "Black" block (picks a random behavior), and "Blue" block (calls the subroutine)
+
+2. Make the robot travel furthest
+
+   - Some interesting attempts, first using up all the Forward (Green) blocks and then using Cream-Purple-Cream-Purple (opposite-reverse to go forward) as the subrouting, before figuring out that it is best to use 4 Green in the subroutine, and all the "Blue"s to call it.
+
+  - Then, understanding the "Blue" / "Green" "Blue" three-block move forever program.
+
+3. Make the most lights blink at once
+
+   - Can put 4 Creams + Blue + subroutine lbock to make 6 blink. Is there a way to get 7?
+
+### 12 July 2018: **Visual Cryptography**
+
+Making secret pictures using [visual cryptography](https://github.com/evansuva/cipherschool/tree/master/visualcrypto).
+
+### 5 July 2018: **Jefferson Wheel Ciphers**
+
 ### 22 June 2018: **Geometry**
 
 Finished the geometry problems (<a href="/docs/03_Problems.pdf">Geometry Axiom Problems</a> (PDF)).

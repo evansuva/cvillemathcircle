@@ -16,6 +16,38 @@
       <guid>http://cvillemathcircle.org/main/</guid>
       <description>
 
+&lt;h3 id=&#34;26-july-2018-cubetto-challenges&#34;&gt;26 July 2018: &lt;strong&gt;Cubetto Challenges&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Some challenges with the &lt;a href=&#34;https://www.primotoys.com/&#34;&gt;Cubetto Toy Robot&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;What does this block do?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Easy for most, but interesting for the &amp;ldquo;Cream&amp;rdquo; blocks (which make the subsequent behavioral block have the opposite behavior, but can be used with multiple cream blocks, etc.), &amp;ldquo;Black&amp;rdquo; block (picks a random behavior), and &amp;ldquo;Blue&amp;rdquo; block (calls the subroutine)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Make the robot travel furthest&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Some interesting attempts, first using up all the Forward (Green) blocks and then using Cream-Purple-Cream-Purple (opposite-reverse to go forward) as the subrouting, before figuring out that it is best to use 4 Green in the subroutine, and all the &amp;ldquo;Blue&amp;rdquo;s to call it.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Then, understanding the &amp;ldquo;Blue&amp;rdquo; / &amp;ldquo;Green&amp;rdquo; &amp;ldquo;Blue&amp;rdquo; three-block move forever program.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Make the most lights blink at once&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Can put 4 Creams + Blue + subroutine lbock to make 6 blink. Is there a way to get 7?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;12-july-2018-visual-cryptography&#34;&gt;12 July 2018: &lt;strong&gt;Visual Cryptography&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Making secret pictures using &lt;a href=&#34;https://github.com/evansuva/cipherschool/tree/master/visualcrypto&#34;&gt;visual cryptography&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;5-july-2018-jefferson-wheel-ciphers&#34;&gt;5 July 2018: &lt;strong&gt;Jefferson Wheel Ciphers&lt;/strong&gt;&lt;/h3&gt;
+
 &lt;h3 id=&#34;22-june-2018-geometry&#34;&gt;22 June 2018: &lt;strong&gt;Geometry&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;Finished the geometry problems (&lt;a href=&#34;http://cvillemathcircle.org/docs/03_Problems.pdf&#34;&gt;Geometry Axiom Problems&lt;/a&gt; (PDF)).&lt;/p&gt;
