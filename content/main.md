@@ -2,6 +2,23 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 24 August 2018: **Olympiad 5**
+_(From Math Olympiad Contest Problems for Elementary and Middle Schools, Vol. 1)_
+
+Olympiad 5: problems 1, 5.
+
+
+### 9 August 2018: **Olympiad 4**
+_(From Math Olympiad Contest Problems for Elementary and Middle Schools, Vol. 1)_
+
+Olympiad 4: problems 1, 3.
+
+
+### 2 August 2018: **Olympiad 2**
+_(From Math Olympiad Contest Problems for Elementary and Middle Schools, Vol. 1)_
+
+Olympiad 2: problems 1, 3, 4, 5.
+
 ### 26 July 2018: **Cubetto Challenges**
 
 Some challenges with the [Cubetto Toy Robot](https://www.primotoys.com/):
