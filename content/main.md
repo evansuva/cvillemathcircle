@@ -2,6 +2,39 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 22 September 2018: **Pythagorean Magnets**
+
+<center>
+<table cellpadding=2 cellspacing=5>
+<tr>
+<td valign="middle">
+<a href="/images/IMG_4742.jpg"><img src="/images/IMG_4742-2.jpg" height=233>
+</td>
+<td valign="middle">
+<a href="/images/IMG_4713.jpg"><img src="/images/IMG_4713-2.jpg" height=233>
+</td>
+<td valign="middle">
+<a href="/images/IMG_4723.jpg"><img src="/images/IMG_4723-2.jpg" height=233>
+</td>
+</tr>
+</table>
+<table cellpadding=2 cellspacing=5>
+<tr>
+<td valign="middle">
+<a href="/images/IMG_4719.jpg"><img src="/images/IMG_4719-2.jpg" height=250>
+</td>
+<td valign="middle">
+<a href="/images/IMG_4716.jpg"><img src="/images/IMG_4716-2.jpg" height=250>
+</td>
+</tr>
+</table>
+
+</center>
+
+### 14 September 2018: **Capture 5**
+
+Game from Ms. Fox's class.
+
 ### 24 August 2018: **Olympiad 5**
 _(From Math Olympiad Contest Problems for Elementary and Middle Schools, Vol. 1)_
 
