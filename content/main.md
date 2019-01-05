@@ -2,6 +2,34 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 4 January 2018: **Pizza Slicing**
+
+<center>
+<table cellpadding=2 cellspacing=5>
+<tr>
+<td valign="middle">
+<a href="/images/IMG_20190104_160450.jpg"><img src="/images/IMG_20190104_160450-2.jpg" height=233>
+</td>
+<td valign="middle">
+<a href="/images/IMG_20190104_155853-2.jpg"><img src="/images/IMG_20190104_155853-2.jpg" height=233>
+</td>
+<td valign="middle">
+<a href="/images/IMG_20190104_155900.jpg"><img src="/images/IMG_20190104_155900-2.jpg" height=233>
+</td>
+</tr>
+</table>
+
+<em>What is the maximum number of slices one can make using straight line cuts?</em><br>
+We figured out that you can make 7 pieces with 3 cuts, 11 pieces with 4 cuts, and 16 pieces with 5 cuts!<bR>
+Yummm...that's a lot of pizza slices. (Three-dimensional cake cutting is reserved for a more advanced math circle.)
+</center>
+
+
+### October -- December 2018: **Math Olympiad Problems**
+
+### 6 October 2018: **Kodables**
+
+
 ### 22 September 2018: **Pythagorean Magnets**
 
 <center>
