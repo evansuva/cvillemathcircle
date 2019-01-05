@@ -11,7 +11,7 @@ title = "Charlottesville Math Circle"
 <a href="/images/IMG_20190104_160450.jpg"><img src="/images/IMG_20190104_160450-2.jpg" height=233>
 </td>
 <td valign="middle">
-<a href="/images/IMG_20190104_155853-2.jpg"><img src="/images/IMG_20190104_155853-2.jpg" height=233>
+<a href="/images/IMG_20190104_155853.jpg"><img src="/images/IMG_20190104_155853-2.jpg" height=233>
 </td>
 <td valign="middle">
 <a href="/images/IMG_20190104_155900.jpg"><img src="/images/IMG_20190104_155900-2.jpg" height=233>
