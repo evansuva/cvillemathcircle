@@ -4,49 +4,47 @@ title = "Charlottesville Math Circle"
 
 ### 15 March 2019: **Pi-Day**
 
-<center>
-<p>
-<em>How big is a pie with unit radius?</em>
-</p>
+   <center>
+   <p>
+_How big is a pie with unit radius?_
+   </p>
 
-<table cellpadding=2 cellspacing=5>
-<tr>
-<td valign="middle">
-<a href="/images/IMG_5307-2.jpg"><img src="/images/IMG_5307.jpg" height=233>
-</td>
-<td valign="middle">
-<a href="/images/IMG_5327-2.jpg"><img src="/images/IMG_5327.jpg" height=233>
-</td>
-</tr>
-</table>
-<table>
-<tr>
-<td valign="middle">
-<a href="/images/IMG_5351-2.jpg"><img src="/images/IMG_5351.jpg" height=300>
-</td>
+   <table cellpadding=2 cellspacing=5>
+   <tr>
+   <td valign="middle">
+   <a href="/images/IMG_5307-2.jpg"><img src="/images/IMG_5307.jpg" height=233>
+   </td>
+   <td valign="middle">
+   <a href="/images/IMG_5327-2.jpg"><img src="/images/IMG_5327.jpg" height=233>
+   </td>
+   </tr>
+   </table>
+   <table>
+   <tr>
+   <td valign="middle">
+   <a href="/images/IMG_5351-2.jpg"><img src="/images/IMG_5351.jpg" height=300>
+   </td>
 
-<td valign="middle">
-<a href="/images/IMG_5345-2.jpg"><img src="/images/IMG_5345.jpg" height=300>
-</td>
-
-</tr>
-
-</table>
+   <td valign="middle">
+   <a href="/images/IMG_5345-2.jpg"><img src="/images/IMG_5345.jpg" height=300>
+   </td>
+   </tr>
+   </table>
 
 [<b>Pi-Day Problems</b> (PPTX)](/docs/piday.pptx)
 
-<table cellpadding=2 cellspacing=5>
-<tr>
-<td valign="middle">
-<a href="/images/IMG_5359-2.jpg"><img src="/images/IMG_5359.jpg" height=233>
-</td>
+   <table cellpadding=2 cellspacing=5>
+   <tr>
+   <td valign="middle">
+   <a href="/images/IMG_5359-2.jpg"><img src="/images/IMG_5359.jpg" height=233>
+   </td>
 
-<td valign="middle">
-<a href="/images/IMG_5369-2.jpg"><img src="/images/IMG_5369.jpg" height=233>
-</td>
-</tr>
-</table>
-</center>
+   <td valign="middle">
+   <a href="/images/IMG_5369-2.jpg"><img src="/images/IMG_5369.jpg" height=233>
+   </td>
+   </tr>
+   </table>
+   </center>
 
 ### 4 January 2018: **Pizza Slicing**
 
