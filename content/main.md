@@ -5,6 +5,10 @@ title = "Charlottesville Math Circle"
 ### 15 March 2019: **Pi-Day**
 
 <center>
+<p>
+<em>How big is a pie with unit radius?</em>
+</p>
+
 <table cellpadding=2 cellspacing=5>
 <tr>
 <td valign="middle">
