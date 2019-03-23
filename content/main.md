@@ -32,10 +32,9 @@ title = "Charlottesville Math Circle"
 </tr>
 
 </table>
-</center>
 
-<center>[<b>Pi-Day Problems</b> (PPTX)](/docs/piday.pptx)</center>
-<center>
+[<b>Pi-Day Problems</b> (PPTX)](/docs/piday.pptx)
+
 <table cellpadding=2 cellspacing=5>
 <tr>
 <td valign="middle">
