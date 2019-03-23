@@ -61,10 +61,11 @@
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
+&lt;/center&gt;
 
-&lt;h3 id=&#34;4-january-2018-pizza-slicing&#34;&gt;4 January 2018: &lt;strong&gt;Pizza Slicing&lt;/strong&gt;&lt;/h3&gt;
+### 4 January 2018: **Pizza Slicing**
 
-&lt;p&gt;&lt;center&gt;
+&lt;center&gt;
 &lt;table cellpadding=2 cellspacing=5&gt;
 &lt;tr&gt;
 &lt;td valign=&#34;middle&#34;&gt;
@@ -77,7 +78,7 @@
 &lt;a href=&#34;http://cvillemathcircle.org/images/IMG_20190104_155900.jpg&#34;&gt;&lt;img src=&#34;http://cvillemathcircle.org/images/IMG_20190104_155900-2.jpg&#34; height=233&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
-&lt;/table&gt;&lt;/p&gt;
+&lt;/table&gt;
 
 &lt;p&gt;&lt;em&gt;What is the maximum number of slices one can make using straight line cuts?&lt;/em&gt;&lt;br&gt;
 We figured out that you can make 7 pieces with 3 cuts, 11 pieces with 4 cuts, and 16 pieces with 5 cuts!&lt;bR&gt;

@@ -47,7 +47,7 @@ title = "Charlottesville Math Circle"
 </td>
 </tr>
 </table>
-
+</center>
 
 ### 4 January 2018: **Pizza Slicing**
 
