@@ -2,6 +2,49 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 15 March 2019: **Pi-Day**
+
+<center>
+<table cellpadding=2 cellspacing=5>
+<tr>
+<td valign="middle">
+<a href="/images/IMG_5307-2.jpg"><img src="/images/IMG_5307.jpg" height=233>
+</td>
+<td valign="middle">
+<a href="/images/IMG_5327-2.jpg"><img src="/images/IMG_5327.jpg" height=233>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td valign="middle">
+<a href="/images/IMG_5351-2.jpg"><img src="/images/IMG_5351.jpg" height=300>
+</td>
+
+<td valign="middle">
+<a href="/images/IMG_5345-2.jpg"><img src="/images/IMG_5345.jpg" height=300>
+</td>
+
+</tr>
+
+</table>
+</center>
+
+<center>[<b>Pi-Day Problems</b> (PPTX)](/docs/piday.pptx)</center>
+<center>
+<table cellpadding=2 cellspacing=5>
+<tr>
+<td valign="middle">
+<a href="/images/IMG_5359-2.jpg"><img src="/images/IMG_5359.jpg" height=233>
+</td>
+
+<td valign="middle">
+<a href="/images/IMG_5369-2.jpg"><img src="/images/IMG_5369.jpg" height=233>
+</td>
+</tr>
+</table>
+
+
 ### 4 January 2018: **Pizza Slicing**
 
 <center>
