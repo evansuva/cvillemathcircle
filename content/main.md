@@ -2,6 +2,12 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 31 May 2019: **Math Restaurant**
+
+<center>
+<img src="/images/IMG_20190531_155611.jpg" width=600>
+</center>
+
 ### 15 March 2019: **Pi-Day**
 
    <center>
