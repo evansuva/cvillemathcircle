@@ -2,17 +2,57 @@
 title = "Charlottesville Math Circle"
 +++
 
+### 21 May 2020: **Encountering the Uncountable**
+
+<em>Is there anything bigger than the Natural Numbers?</em>
+
+<a href="/image/uncountable.png"><img src="/images/uncountable.png" width=600></a>
+
+<b>Slides (with annotations):</b> <a href="https://www.dropbox.com/s/wztep17dc48bnaf/Uncountable-annotated.pptx?dl=0">PPTX</a>
+
+
+### 19 May 2020: **Infinity and Beyond**
+
+<em>What are numbers for, and how many do we have?</em>
+
+<a href="/images/onetoone.png"><img src="/images/onetoone.png" width=600></a>
+
+<b>Slides (with annotations):</b> <a href="https://www.dropbox.com/s/suxaw8dvlzo1by0/Infinity%20and%20beyond-annotated.pptx?dl=0">PPTX</a>
+
+### 11 May 2020: **Maryam Mirzakhani Movie**
+
+Home screening of <a href="http://www.zalafilms.com/secrets/"><em>Secrets of the Surface: The Mathematical Vision of Maryam Mirzakhani</em></a>.
+
+<a href="/images/IMG_20200510_190925.png"><img src="/images/IMG_20200510_190925.png" width=600></a>
+
+### 5 May 2020: **Pythagorean Theorem**
+
+<em>What is a mathematical proof?</em>
+
+<a href="/images/pythagoras.png"><img src="/images/pythagoras.png" width=600></a>
+
+<p>
+<b>Slides (includes videos):</b> <A href="https://www.dropbox.com/s/4xcmts4je3d0jqo/Pythagorean%20Theorem.pptx?dl=0">PPTX</a>
+</p>
+
+
+### 28 April 2020: **Marvelous Measurements**
+
+<em>How can we measure lengths and areas?</em>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qcTTe2ULS-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</video>
+
+
 ### 31 May 2019: **Math Restaurant**
 
-<center>
 <img src="/images/IMG_20190531_155611.jpg" width=600>
-</center>
 
 ### 15 March 2019: **Pi-Day**
 
-   <center>
    <p>
-_How big is a pie with unit radius?_
+<em>How big is a pie with unit radius?</em>
    </p>
 
    <table cellpadding=2 cellspacing=5>
@@ -50,11 +90,9 @@ _How big is a pie with unit radius?_
    </td>
    </tr>
    </table>
-   </center>
 
-### 4 January 2018: **Pizza Slicing**
+### 4 January 2019: **Pizza Slicing**
 
-<center>
 <table cellpadding=2 cellspacing=5>
 <tr>
 <td valign="middle">
@@ -72,8 +110,6 @@ _How big is a pie with unit radius?_
 <em>What is the maximum number of slices one can make using straight line cuts?</em><br>
 We figured out that you can make 7 pieces with 3 cuts, 11 pieces with 4 cuts, and 16 pieces with 5 cuts!<bR>
 Yummm...that's a lot of pizza slices. (Three-dimensional cake cutting is reserved for a more advanced math circle.)
-</center>
-
 
 ### October -- December 2018: **Math Olympiad Problems**
 
@@ -82,7 +118,6 @@ Yummm...that's a lot of pizza slices. (Three-dimensional cake cutting is reserve
 
 ### 22 September 2018: **Pythagorean Magnets**
 
-<center>
 <table cellpadding=2 cellspacing=5>
 <tr>
 <td valign="middle">
@@ -106,8 +141,6 @@ Yummm...that's a lot of pizza slices. (Three-dimensional cake cutting is reserve
 </td>
 </tr>
 </table>
-
-</center>
 
 ### 14 September 2018: **Capture 5**
 
@@ -255,7 +288,6 @@ We can make colored water with different densities by mixing in
 different amounts of sugar. Then, we can make a separated rainbow of
 different colored water in a straw!
 
-<center>
 <table>
 <tr>
 <td valign="middle">
@@ -276,11 +308,9 @@ different colored water in a straw!
 </td>
 </tr>
 </table>
-</center>
 
 ### 23 February 2018: **Tree Adding**
 
-<center>
 <table>
 <tr>
 <td>
@@ -290,14 +320,11 @@ different colored water in a straw!
 <a href="/images/IMG_20180224_101821-2.jpg"><img src="/images/IMG_20180224_101821.jpg" height=400></a></td>
 </tr>
 <table>
-</center>
 
 ### 9 February 2018: **Magic Squares**
 
-<center>
 <a href="/images/IMG_20180210_081557-2.jpg"><img src="/images/IMG_20180210_081557.jpg" height=400></a><br>
 <a href="/docs/magicsquares.pptx">Magic Squares (PPTX)</a>
-</center>
 
 ### 2 February 2018: **Magic Squares**
 
@@ -309,7 +336,6 @@ Two puzzles translated from "Culegere de Exercitii si Probleme pentru Concursul 
 
 ### 26 January 2018: Flying Circuits!
 
-<center>
 <table>
 <tr>
 <td valign="middle">
@@ -330,12 +356,10 @@ Two puzzles translated from "Culegere de Exercitii si Probleme pentru Concursul 
 </td>
 </tr>
 </table>
-</center>
 
 
 ### 8 December 2017: **Making Octahedrons with Stawbees**
 
-<center>
 <table>
 <tr>
 <td valign="middle">
@@ -349,14 +373,13 @@ Two puzzles translated from "Culegere de Exercitii si Probleme pentru Concursul 
 <table>
 <tr>
 <td valign="middle">
-<img src="/images/IMG_3741.jpg" height=300>
+<img src="/images/IMG_3741.jpg" height=354>
 </td>
 <td valign="middle">
-<img src="/images/IMG_3744.jpg" height=300>
+<img src="/images/IMG_3744.jpg" height=354>
 </td>
 </tr>
 </table>
-</center>
 
 ### 1 December 2017: **Out with the Onion**
 
@@ -389,14 +412,12 @@ first length. Use all 8 to make 3 squares of equal size. It’s
 acceptable to cross two long sticks.  This was a pretty hard one. It
 took a while, but we finally did it.
 
-<Center><img src="/images/sticks.jpeg" width="500">
-</center>
+<img src="/images/sticks.jpeg" width="500">
 
 ### 17 November 2017: **Relatively Prime**
 
 Everyone knows number lines (and number chains), but now its time for number rings!
 
-<center>
 <table>
 <tr>
 <td> 
@@ -413,7 +434,6 @@ Everyone knows number lines (and number chains), but now its time for number rin
 </td>
 </tr>
 </table>
-</center>
 
 If two numbers, <em>n</em> and <em>k</em> are relatively prime, we
 will touch every number in the modulo number ring for <em>n</em> going
@@ -421,9 +441,7 @@ by multiples of <em>k</em>. Dorina picked 25 and 6, Anya picked 12 and
 5, Charlotte picked 12 and 3 (not relatively prime, so doesn't touch
 every number), and Madelyn picked a number too big to finish.
 
-<center>
 <a href="/images/IMG_3644.jpg"><img src="/images/IMG_3644-2.jpg" width="650"></a>
-</center>
 
 (This is what we covered in <a href="https://uvacs2102.github.io/class23/">cs2102: Discrete Mathematics</a> the day before.)
 
@@ -434,9 +452,8 @@ sticks, make a closed polygon with the smallest integral area.
 
 ### 3 November 2017: **Pentagram**
 
-<center><A href="/images/all35.jpg"><img src="/images/all35.jpg" width=650></a><br>
+<A href="/images/all35.jpg"><img src="/images/all35.jpg" width=650></a><br>
 With enough paper and colors we counted all 35 triangles!
-</center>
 
 
 ### 28 October 2017: **Puzzling Pentagrams**
@@ -454,9 +471,7 @@ Kordemsky)
 This was a pretty successful problem. The girls enjoyed moving the
 stones around and find a solution.
 
-<center>
 <a href="/images/IMG_3614.jpg"><img src="/images/IMG_3614-2.jpg" width=650></a>
-</center>
 
 #### Count!
 
@@ -464,9 +479,7 @@ How many different triangles are there in the pentagram figure? (From _The Mosco
 
 We were able to identify all the types of triangles, but we didn't find a successful strategy for counting all 35 triangles, despite several persistent efforts from the girls.
 
-<center>
 <a href="/images/IMG_3616.jpg"><img src="/images/IMG_3616-2.jpg" width=650></a>
-</center>
 
 ### 21 October 2017: **Scrambled Box Tops**
 

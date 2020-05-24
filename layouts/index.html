@@ -3,26 +3,29 @@
 <div id="layout" class="pure-g">
         <div class="sidebar pure-u-1 pure-u-md-1-4">
   <div class="header">
-
    <a href="http://cvillemathcircle.org"><h1 class="brand-title">Cville Math&nbsp;Circle</h1></a>
  <h2 class="brand-tagline">Not-So Secret Order of the <em>Twin&nbsp;Primes</em></h2>
 <p>
 
 A <em>math circle</em> is a group of people playing together with
-mathematical puzzles and problems.  Our math circle is for 5-7
+mathematical puzzles and problems.
+</p>
+   <p>
+     
+Our math circle is for 6-8
 year-old girls, and focused on open exploration with mathematical
-concepts and occasionally unhealthy snacks.
-
+concepts and occasionally unhealthy virtual snacks.
 </p>
 <p>
 <b>Meetings:</b><Br>
-Friday afternoons (4-5:30pm)<br>
-Charlottesville (Fontana, near the Pantops)
+For summer 2020, our meetings will be held on Zoom,<br>
+schedule to be determined.
+
 </p>
 <p>
 All are welcome! <Br>
 To join, send email
-to <a href="mailto:ananevans@gmail.com"><em>ananevans@gmail.com</em></a>.
+to <a href="mailto:cvillemathcircle@gmail.com"><em>cvillemathcircle@gmail.com</em></a>.
 </p>
 <p>
 <b>Founders:</b><br>
@@ -50,6 +53,10 @@ to <a href="mailto:ananevans@gmail.com"><em>ananevans@gmail.com</em></a>.
 
 <section id="main">
   <div>
+{{ range .Pages }}
+        {{ .Content }}
+  {{ end }}
+    
     {{ range first 1 .Site.Pages }}
         {{ .Content }}
     {{ end }}

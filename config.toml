@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "CvilleMathCircle"
 subtitle = "Secret Order of the Twin Primes"
 
+[markup.goldmark.renderer]
+unsafe= true
+ 
 [params]
     sidebartitle = "Cville Math Circle"
     sidebartagline = "Secret Order of the Twin Primes"
