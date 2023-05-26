@@ -2,6 +2,13 @@
 title = "Charlottesville Math Circle"
 +++
 
+
+The Math Circle is no longer active, but has been replaced by <a
+href="https://blueridgeboost.com/"><b>Blue Ridge Boost</b></a>! Coding
+classes, camps, and math tutoring.
+
+#
+
 ### 21 May 2020: **Encountering the Uncountable**
 
 <em>Is there anything bigger than the Natural Numbers?</em>
