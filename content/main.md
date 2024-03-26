@@ -597,6 +597,8 @@ shore?
 </table>
 </center>
 
+<a name="eclipse"></a>
+
 ### 26 August 2017: **Eclipse**
 
 On August 21 there was a total solar eclipse for parts of the US, and a near-total solar eclipse for Charlottesville. For the next math club, we wanted to understand what an Eclipse was, and why they are so rare. 
@@ -625,10 +627,10 @@ The big purple ball represents the sun.
 
 So, to represent the Earth we need something roughly 1/109 the radius
 of the sun. For the big purple ball, which has radius about 10 inches,
-we needed something with radius 0.01 inches - a small marble was the
-closest readily available, but with its blue and green swirly color
-made an excellent earth. The moon, 1/3 the radius of the earth, was a
-small piece of fuzz.
+we needed something with radius 0.1 inches &mdash; a small marble was
+the closest readily available, but with its blue and green swirly
+color made an excellent earth. The moon, 1/3 the radius of the earth,
+was a small piece of fuzz.
 
 Scaling the size of the Sun down to the big purple ball, means the
 distance to the earth (normally 93 million miles) would scale down as
